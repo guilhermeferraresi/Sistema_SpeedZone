@@ -95,8 +95,7 @@ create table tbRodas(
     IdPeca int not null,
     Aro varchar(40) not null,
     Pneu varchar(30) not null,
-    Freio varchar(30) not null
-    
+    IdFreio int not null
 );
 
 create table tbSuspensao(
@@ -147,7 +146,7 @@ create table tbEscapamentos(
 create table tbBancos(
 	IdBancos int primary key auto_increment,
     IdPeca int not null,
-    CorBanco varchar(50) not null
+    TipoBanco varchar(50) not null
 );
 
 create table tbPainel(
@@ -163,6 +162,24 @@ create table tbPainel(
     IdPeca int not null
  );
 
+create table tbCinto(
+	IdCinto int primary key auto_increment,
+    IdPeca int not null,
+    CorCinto varchar(20)
+);
+
+create table tbDesignInterior(
+	IdDesignInterior int primary key auto_increment,
+    CorCostura varchar(30) not null,
+    CorInterior varchar(30) not null,
+    Tipo varchar(30) not null,
+    IdPersonalizacao int not null
+);
+
+create table tbFreio(
+	IdFreio int primary key auto_increment,
+    Cor varchar(20) not null
+);
 
 alter table tbUsuario add constraint fk_idendereco foreign key(idendereco) references tbEndereco(idEndereco);
 alter table tbFunc add constraint fk_idFuncEndereco foreign key(idEndereco) references tbEndereco(idEndereco);
@@ -185,3 +202,5 @@ alter table tbKits add constraint fk_idPecaKits foreign key(IdPeca) references t
 alter table tbEscapamentos add constraint fk_idPecaEscapamentos foreign key(IdPeca) references tbPeca(IdPeca);
 alter table tbBancos add constraint fk_idPecaBanco foreign key(IdPeca) references tbPeca(IdPeca);
 alter table tbPainel add constraint fk_idPecaPainel foreign key(IdPeca) references tbPeca(IdPeca);
+alter table tbRodas add constraint fk_idFreioRoda foreign key(IdFreio) references tbFreio(IdFreio);
+alter table tbDesignInterior add constraint fk_idPersonalizacaoDesign foreign key(idPersonalizacao) references tbPersonalizacao(idPersonalizacao);
