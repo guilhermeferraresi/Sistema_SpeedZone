@@ -99,12 +99,6 @@ create table tbKits(
     IdPeca int not null,
     MaterialKits varchar(40) not null
 );
-
-create table tbBanco(
-	IdBanco int primary key auto_increment,
-    TipoBanco varchar(50) not null
-);
-
  create table tbPersonalizacao(
 	IdPersonalizacao int primary key auto_increment,
     IdModelo int not null,
@@ -123,7 +117,8 @@ create table tbDesignInterior(
     IdBanco int not null,
     CorCostura varchar(30) not null,
     CorInterior int not null,
-    Tipo varchar(30) not null
+    Tipo varchar(30) not null,
+    TipoBanco varchar(25) not null
 );
 
 create table tbTeto(
@@ -153,4 +148,3 @@ alter table tbCinto add constraint fk_idPecaCinto foreign key(IdPeca) references
 alter table tbVidro add constraint fk_idPecaVidro foreign key(IdPeca) references tbPeca(IdPeca);
 alter table tbTeto add constraint fk_idPecaTeto foreign key(IdPeca) references tbPeca(IdPeca);
 alter table tbDesignInterior add constraint fk_idPecaDesignInts foreign key(IdPeca) references tbPeca(IdPeca);
-alter table tbDesignInterior add constraint fk_idPecaDesignIntsBanco foreign key(IdBanco) references tbBanco(IdBanco);
