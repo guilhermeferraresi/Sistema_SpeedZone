@@ -1,7 +1,9 @@
+wwwroot\css\segundaTela.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\img\bugattiChiron.mp4
 wwwroot\img\logo.png
+wwwroot\img\mcLaren720S.mp4
 wwwroot\img\perfil.png
 wwwroot\img\sz_background.png
 wwwroot\js\site.js

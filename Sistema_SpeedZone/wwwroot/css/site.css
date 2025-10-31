@@ -13,26 +13,65 @@
 body {
     margin: 0;
     min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     font-family: "Poppins", "Segoe UI", Helvetica, Arial, sans-serif;
     color: #f5f7fa;
     background: linear-gradient(132deg, #09090f 0%, #08070b 48%, #21060a 100%), radial-gradient(circle at 18% 24%, rgba(210, 32, 32, 0.45), rgba(15, 8, 10, 0) 58%), radial-gradient(circle at 84% 68%, rgba(165, 20, 35, 0.42), rgba(5, 5, 8, 0) 62%), #040306;
     position: relative;
+    overflow-x: hidden;
+
+    /*Ajusta margem da tela no PC da escola*/
+    margin-left: -39%;
+}
+
+.on-secondary {
+    background: #050505;
+}
+
+.scroll-stage {
+    --scroll-offset: 0;
+    --scroll-screen-count: 1;
+    min-height: 100vh;
     overflow: hidden;
 }
 
-    body::after {
-        content: "";
-        position: fixed;
-        inset: 0;
-        background: url("../img/sz_background.png") center/118% auto no-repeat;
-        opacity: 0.55;
-        mix-blend-mode: screen;
+.scroll-wrapper {
+    position: relative;
+    display: flex;
+    width: calc(100vw * var(--scroll-screen-count));
+    height: 100vh;
+    transform: translateX(var(--scroll-offset));
+    transition: transform 0.65s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+    .scroll-wrapper.is-animating {
         pointer-events: none;
-        z-index: -2;
     }
+
+.screen {
+    position: relative;
+    flex: 0 0 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: url("../img/sz_background.png") center/118% auto no-repeat;
+    opacity: 0.55;
+    mix-blend-mode: screen;
+    pointer-events: none;
+    z-index: -2;
+}
+
+.on-secondary::after {
+    opacity: 0;
+}
 
 .padrao-fundo {
     position: fixed;
@@ -41,6 +80,11 @@ body {
     opacity: 0.75;
     pointer-events: none;
     z-index: -1;
+    transition: opacity 0.45s ease;
+}
+
+.on-secondary .padrao-fundo {
+    opacity: 0;
 }
 
 .barra-topo {
@@ -78,9 +122,13 @@ body {
 
 .moldura-video {
     position: relative;
+
+    /*Width no notbook*/
     width: min(calc(100vw - 120px), 1080px);
+    /*Width no PC da escola*/
+    width: 70%;
+
     aspect-ratio: 16 / 9;
-    border: 1px solid rgba(255, 255, 255, 0.28);
     background: #050505;
     display: flex;
     align-items: center;
@@ -148,20 +196,31 @@ body {
 }
 
 .ponto {
-    display: block;
+    display: inline-block;
     width: 12px;
     height: 4px;
     border-radius: 999px;
     background: rgba(255, 255, 255, 0.3);
     transition: width 0.3s ease, opacity 0.3s ease;
     opacity: 0.6;
+    text-decoration: none;
 }
+
+    .ponto:not(.ativo) {
+        cursor: pointer;
+    }
 
     .ponto.ativo {
         width: 32px;
         background: #ffffff;
         opacity: 1;
+        pointer-events: none;
     }
+
+.ponto--placeholder {
+    opacity: 0.35;
+    pointer-events: none;
+}
 
 .rotulo-menu {
     font-weight: 600;
@@ -191,9 +250,5 @@ body {
 
     .navegacao-inferior {
         bottom: 32px;
-    }
-
-    .pontos-progresso {
-        gap: 12px;
     }
 }

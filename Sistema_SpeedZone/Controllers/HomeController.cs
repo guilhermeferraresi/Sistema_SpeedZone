@@ -17,6 +17,10 @@ namespace Sistema_SpeedZone.Controllers
         {
             return View();
         }
+        public IActionResult segundaTela()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
