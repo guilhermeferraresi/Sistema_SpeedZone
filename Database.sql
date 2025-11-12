@@ -72,10 +72,15 @@ create table tbModelo(
     Img varchar(70) not null
 );
 
+create table tbPersonalizacao(
+	IdPersonalizacao int primary key auto_increment,
+    IdModelo int not null,
+    IdPeca int not null
+ );
+
 create table tbPeca(
 	IdPeca int primary key auto_increment,
     Tipo varchar(30) not null,
-    Nome varchar(50) not null,
     Preco double(8,2) not null,
     Img varchar(70) not null
 );
@@ -99,15 +104,10 @@ create table tbKits(
     IdPeca int not null,
     MaterialKits varchar(40) not null
 );
- create table tbPersonalizacao(
-	IdPersonalizacao int primary key auto_increment,
-    IdModelo int not null,
-    IdPeca int not null
- );
+ 
 create table tbDesignInterior(
 	IdDesignInterior int primary key auto_increment,
     IdPeca int not null,
-    IdBanco int not null,
     CorCostura varchar(30) not null,
     CorInterior int not null,
     Tipo varchar(30) not null,
@@ -141,3 +141,41 @@ alter table tbKits add constraint fk_idPecaKits foreign key(IdPeca) references t
 alter table tbVidro add constraint fk_idPecaVidro foreign key(IdPeca) references tbPeca(IdPeca);
 alter table tbTeto add constraint fk_idPecaTeto foreign key(IdPeca) references tbPeca(IdPeca);
 alter table tbDesignInterior add constraint fk_idPecaDesignInts foreign key(IdPeca) references tbPeca(IdPeca);
+
+INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
+('cor', 8500.00, 'img/cor/arancio_xanto'),
+('cor', 8000.00, 'img/cor/bianco_asopo'),
+('cor', 8700.00, 'img/cor/blu_nethuns'),
+('cor', 8600.00, 'img/cor/giallo_belenus'),
+('cor', 8300.00, 'img/cor/grigio_telesto'),
+('cor', 8900.00, 'img/cor/rosso_anteros'),
+('cor', 9000.00, 'img/cor/rosso_mars'),
+('cor', 8200.00, 'img/cor/verde_lares'),
+('cor', 8800.00, 'img/cor/verde_mantis'),
+('cor', 8700.00, 'img/cor/arancio_borealis'),
+('cor', 8100.00, 'img/cor/bianco_icarus'),
+('cor', 8000.00, 'img/cor/bianco_monocerus'),
+('cor', 8600.00, 'img/cor/blu_astraeus'),
+('cor', 8700.00, 'img/cor/blu_eleos'),
+('cor', 8500.00, 'img/cor/giallo_auge'),
+('cor', 8500.00, 'img/cor/giallo_inti');
+
+INSERT INTO tbPintura (IdPeca, TipoCor) VALUES
+(1, 'Arancio Xanto'),
+(2, 'Bianco Asopo'),
+(3, 'Blu Nethuns'),
+(4, 'Giallo Belenus'),
+(5, 'Grigio Telesto'),
+(6, 'Rosso Anteros'),
+(7, 'Rosso Mars'),
+(8, 'Verde Lares'),
+(9, 'Verde Mantis'),
+(10, 'Arancio Borealis'),
+(11, 'Bianco Icarus'),
+(12, 'Bianco Monocerus'),
+(13, 'Blu Astraeus'),
+(14, 'Blu Eleos'),
+(15, 'Giallo Auge'),
+(16, 'Giallo Inti');
+
+select * from tbpintura;
