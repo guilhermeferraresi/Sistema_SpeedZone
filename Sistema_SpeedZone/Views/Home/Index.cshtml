@@ -4,12 +4,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Speed Zone</title>
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/site.css" />
     <link rel="stylesheet" href="css/segundaTela.css" />
+    <link rel="stylesheet" href="css/terceiraTela.css" />
 </head>
-<body class="scroll-stage">
+<body class="scroll-stage" data-carousel-stage="0">
     <div class="scroll-wrapper" data-scroll-wrapper>
-        <section class="screen screen--primary" data-screen="0">
+        <section class="screen screen--primary" data-screen="0" id="screen-0">
             <div class="padrao-fundo" aria-hidden="true"></div>
 
             <header class="barra-topo">
@@ -41,14 +42,13 @@
                        aria-current="page"
                        aria-label="Tela atual"></a>
                     <a class="ponto" data-scroll-to="1" href="#" aria-label="Ir para a segunda tela"></a>
-                    <span class="ponto ponto--placeholder" aria-hidden="true"></span>
-                    <span class="ponto ponto--placeholder" aria-hidden="true"></span>
+                    <a class="ponto" data-scroll-to="2" href="#" aria-label="Ir para a terceira tela"></a>
                 </div>
                 <span class="rotulo-menu">MENU</span>
             </footer>
         </section>
 
-        <section class="screen screen--secondary segunda-tela" data-screen="1">
+        <section class="screen screen--secondary segunda-tela" data-screen="1" id="screen-1">
             <div class="tela-revelacao">
                 <video class="tela-revelacao__video"
                        src="img/mcLaren720S.mp4"
@@ -189,12 +189,59 @@
                            href="#"
                            aria-current="page"
                            aria-label="Tela atual"></a>
-                        <span class="ponto ponto--placeholder" aria-hidden="true"></span>
-                        <span class="ponto ponto--placeholder" aria-hidden="true"></span>
+                        <a class="ponto" data-scroll-to="2" href="#" aria-label="Ir para a terceira tela"></a>
                     </div>
                     <span class="rotulo-menu">MENU</span>
                 </footer>
             </div>
+        </section>
+
+        <section class="screen terceira-tela" data-screen="2" aria-label="Terceira tela" id="screen-2">
+            <header class="barra-topo">
+                <img class="logo-marca" src="img/logo.png" alt="Speed Zone" />
+                <img class="avatar-perfil" src="img/perfil.png" alt="Perfil do usuário" />
+            </header>
+
+            <div class="terceira-tela__titulo" aria-live="polite">
+                <span class="terceira-tela__titulo-text terceira-tela__titulo-text--primary">FORD GT40</span>
+                <span class="terceira-tela__titulo-text terceira-tela__titulo-text--secondary">ZONDA HP</span>
+                <span class="terceira-tela__titulo-text terceira-tela__titulo-text--tertiary">CORVETTE Z06</span>
+            </div>
+
+            <div class="terceira-tela__logo" aria-hidden="true">
+                <img class="terceira-tela__logo-img terceira-tela__logo-img--primary" src="img/ford_logo.png" alt="Ford" />
+                <img class="terceira-tela__logo-img terceira-tela__logo-img--secondary" src="img/pagani_logo.png" alt="Pagani" />
+                <img class="terceira-tela__logo-img terceira-tela__logo-img--tertiary" src="img/chevrolet_logo.png" alt="Chevrolet" />
+            </div>
+
+            <div class="terceira-tela__pista" aria-live="polite">
+                <div class="terceira-tela__carro terceira-tela__carro--ford">
+                    <img src="img/blue_car.png" alt="Carro esportivo azul clássico" />
+                </div>
+                <div class="terceira-tela__carro terceira-tela__carro--pagani">
+                    <img src="img/darkblue_car.png" alt="Pagani Zonda HP supercar" />
+                </div>
+                <div class="terceira-tela__carro terceira-tela__carro--corvette">
+                    <img src="img/orange_car.png" alt="Chevrolet Corvette Z06 supercar" />
+                </div>
+            </div>
+
+            <div class="terceira-tela__cta" aria-live="polite">
+                <a class="terceira-tela__cta-botao" href="brands.html">COMEÇE AGORA</a>
+            </div>
+
+            <footer class="navegacao-inferior">
+                <div class="pontos-progresso" role="navigation" aria-label="Progresso do carrossel">
+                    <a class="ponto" data-scroll-to="0" href="#" aria-label="Voltar para a primeira tela"></a>
+                    <a class="ponto" data-scroll-to="1" href="#" aria-label="Ir para a segunda tela"></a>
+                    <a class="ponto ativo"
+                       data-scroll-to="2"
+                       href="#"
+                       aria-current="page"
+                       aria-label="Tela atual"></a>
+                </div>
+                <span class="rotulo-menu">MENU</span>
+            </footer>
         </section>
     </div>
 

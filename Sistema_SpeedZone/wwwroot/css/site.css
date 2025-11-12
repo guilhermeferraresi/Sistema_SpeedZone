@@ -18,9 +18,6 @@ body {
     background: linear-gradient(132deg, #09090f 0%, #08070b 48%, #21060a 100%), radial-gradient(circle at 18% 24%, rgba(210, 32, 32, 0.45), rgba(15, 8, 10, 0) 58%), radial-gradient(circle at 84% 68%, rgba(165, 20, 35, 0.42), rgba(5, 5, 8, 0) 62%), #040306;
     position: relative;
     overflow-x: hidden;
-
-    /*Ajusta margem da tela no PC da escola*/
-    margin-left: -39%;
 }
 
 .on-secondary {
@@ -122,12 +119,7 @@ body::after {
 
 .moldura-video {
     position: relative;
-
-    /*Width no notbook*/
     width: min(calc(100vw - 120px), 1080px);
-    /*Width no PC da escola*/
-    width: 70%;
-
     aspect-ratio: 16 / 9;
     background: #050505;
     display: flex;
@@ -187,6 +179,8 @@ body::after {
     font-size: 0.7rem;
     text-transform: uppercase;
     z-index: 1;
+    width: fit-content;
+    margin: 0 auto;
 }
 
 .pontos-progresso {
@@ -197,7 +191,7 @@ body::after {
 
 .ponto {
     display: inline-block;
-    width: 12px;
+    width: 22px;
     height: 4px;
     border-radius: 999px;
     background: rgba(255, 255, 255, 0.3);
@@ -211,16 +205,10 @@ body::after {
     }
 
     .ponto.ativo {
-        width: 32px;
         background: #ffffff;
         opacity: 1;
         pointer-events: none;
     }
-
-.ponto--placeholder {
-    opacity: 0.35;
-    pointer-events: none;
-}
 
 .rotulo-menu {
     font-weight: 600;
@@ -252,3 +240,5 @@ body::after {
         bottom: 32px;
     }
 }
+
+/* --- Terceira tela --- */

@@ -67,3 +67,4 @@ C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\refint
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_SpeedZone.pdb
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_SpeedZone.genruntimeconfig.cache
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\ref\Sistema_SpeedZone.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_SpeedZone.sourcelink.json

@@ -1,0 +1,256 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap");
+
+/* Estrutura minimalista da terceira tela */
+.terceira-tela {
+    position: relative;
+    color: #f5f7fa;
+    background: url("../img/blue_bg.png") center/cover no-repeat;
+}
+
+body[data-carousel-stage="1"] .terceira-tela {
+    background: url("../img/darkblue_bg.png") center/cover no-repeat;
+}
+
+body[data-carousel-stage="2"] .terceira-tela {
+    background: url("../img/orange_bg.png") center/cover no-repeat;
+}
+
+.terceira-tela .barra-topo,
+.terceira-tela .navegacao-inferior {
+    z-index: 2;
+}
+
+.terceira-tela__titulo {
+    position: absolute;
+    top: clamp(170px, 30vh, 260px);
+    left: 50%;
+    transform: translateX(-45%);
+    width: min(100vw, 1120px);
+    z-index: 2;
+    display: grid;
+}
+
+.terceira-tela__titulo-text {
+    grid-area: 1 / 1;
+    display: inline-block;
+    font-family: "Racing Sans One", "Bebas Neue", "Poppins", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: clamp(4rem, 10vw, 6rem);
+    text-transform: uppercase;
+    color: #fefefe;
+    margin: 0;
+    opacity: 0;
+    transform: translateY(12px);
+    transition: opacity 0.65s ease, transform 0.65s ease;
+}
+
+body[data-carousel-stage="0"] .terceira-tela__titulo-text--primary,
+body:not([data-carousel-stage]) .terceira-tela__titulo-text--primary {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+body[data-carousel-stage="1"] .terceira-tela__titulo-text--secondary {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+body[data-carousel-stage="2"] .terceira-tela__titulo-text--tertiary {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.terceira-tela__pista {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+    isolation: isolate;
+}
+
+.terceira-tela__carro {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: min(1000px, 86vw);
+    transform: translate(-50%, -50%) scale(1);
+    transition: left 0.85s cubic-bezier(0.22, 0.61, 0.36, 1), transform 0.85s cubic-bezier(0.22, 0.61, 0.36, 1), opacity 0.85s ease, filter 0.85s ease;
+    will-change: transform, opacity, filter, left;
+    z-index: 0;
+}
+
+    .terceira-tela__carro img {
+        width: 100%;
+        height: auto;
+        display: block;
+        filter: drop-shadow(0 14px 28px rgba(0, 0, 0, 0.7));
+        transition: filter 0.85s ease;
+    }
+
+.terceira-tela__carro--ford {
+    width: min(1000px, 86vw);
+}
+
+.terceira-tela__carro--pagani {
+    width: min(960px, 82vw);
+}
+
+.terceira-tela__carro--corvette {
+    width: min(980px, 84vw);
+}
+
+body[data-carousel-stage="0"] .terceira-tela__carro--ford,
+body:not([data-carousel-stage]) .terceira-tela__carro--ford {
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+    filter: blur(0);
+    z-index: 1;
+}
+
+body[data-carousel-stage="0"] .terceira-tela__carro--pagani,
+body:not([data-carousel-stage]) .terceira-tela__carro--pagani {
+    left: 96%;
+    top: 53.5%;
+    width: min(700px, 60vw);
+    filter: blur(1.2px);
+    z-index: 0;
+}
+
+body[data-carousel-stage="0"] .terceira-tela__carro--corvette,
+body:not([data-carousel-stage]) .terceira-tela__carro--corvette {
+    left: 120%;
+    top: 55%;
+    transform: translate(-50%, -50%) scale(0.6);
+    filter: blur(1.2px);
+    z-index: 0;
+}
+
+body[data-carousel-stage="1"] .terceira-tela__carro--ford {
+    left: 4%;
+    top: 52%;
+    transform: translate(-50%, -50%) scale(0.72);
+    filter: blur(1.2px);
+    z-index: 0;
+}
+
+body[data-carousel-stage="1"] .terceira-tela__carro--pagani {
+    left: 50%;
+    top: 53.5%;
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+    filter: blur(0);
+    z-index: 1;
+}
+
+body[data-carousel-stage="1"] .terceira-tela__carro--corvette {
+    left: 96%;
+    top: 55%;
+    transform: translate(-50%, -50%) scale(0.72);
+    filter: blur(1.2px);
+    z-index: 0;
+}
+
+body[data-carousel-stage="2"] .terceira-tela__carro--ford {
+    left: -20%;
+    top: 52%;
+    transform: translate(-50%, -50%) scale(0.6);
+    filter: blur(1.2px);
+    z-index: 0;
+}
+
+body[data-carousel-stage="2"] .terceira-tela__carro--pagani {
+    left: 4%;
+    top: 54.5%;
+    transform: translate(-50%, -50%) scale(0.72);
+    filter: blur(1.2px);
+    z-index: 0;
+}
+
+body[data-carousel-stage="2"] .terceira-tela__carro--corvette {
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+    filter: blur(0);
+    z-index: 1;
+}
+
+.terceira-tela__logo {
+    position: absolute;
+    top: clamp(140px, 20vh, 220px);
+    right: clamp(160px, 22vw, 300px);
+    width: clamp(180px, 26vw, 360px);
+    z-index: 2;
+    display: grid;
+}
+
+.terceira-tela__logo-img {
+    grid-area: 1 / 1;
+    width: 100%;
+    height: auto;
+    display: block;
+    filter: drop-shadow(0 8px 18px rgba(0, 0, 0, 0.5));
+    opacity: 0;
+    transform: translateY(-10px) scale(0.9);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+body[data-carousel-stage="0"] .terceira-tela__logo-img--primary,
+body:not([data-carousel-stage]) .terceira-tela__logo-img--primary {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+}
+
+body[data-carousel-stage="1"] .terceira-tela__logo-img--secondary {
+    opacity: 1;
+    transform: translateY(10%) scale(1.3);
+}
+
+body[data-carousel-stage="2"] .terceira-tela__logo-img--tertiary {
+    opacity: 1;
+    transform: translateY(-10%) scale(1);
+}
+
+.terceira-tela__cta {
+    position: absolute;
+    bottom: clamp(110px, 14vh, 160px);
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+}
+
+.terceira-tela__cta-botao {
+    font-family: "Oswald", "Bebas Neue", "Poppins", "Segoe UI", Helvetica, Arial, sans-serif;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    font-size: clamp(0.82rem, 2.5vw, 1.15rem);
+    font-weight: 500;
+    color: #f9fbff;
+    text-decoration: none;
+    background-color: rgba(8, 20, 32, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.32);
+    border-radius: 4px;
+    padding: clamp(10px, 1.3vw, 16px) clamp(46px, 8vw, 120px);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: background-color 0.25s ease, border-color 0.25s ease, transform 0.25s ease;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.65);
+}
+
+    .terceira-tela__cta-botao:hover,
+    .terceira-tela__cta-botao:focus-visible {
+        background-color: rgba(11, 32, 48, 0.32);
+        border-color: rgba(255, 255, 255, 0.68);
+        transform: translateY(-2px);
+        outline: none;
+    }
+
+    .terceira-tela__cta-botao:focus-visible {
+        box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.25);
+    }
