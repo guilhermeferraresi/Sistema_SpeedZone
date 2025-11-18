@@ -68,3 +68,23 @@ C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistem
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_SpeedZone.genruntimeconfig.cache
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\ref\Sistema_SpeedZone.dll
 C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_SpeedZone.sourcelink.json
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_SpeedZone.csproj.AssemblyReference.cache
+C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_.083BDF05.Up2Date

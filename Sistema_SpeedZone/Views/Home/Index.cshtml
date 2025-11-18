@@ -4,9 +4,9 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Speed Zone</title>
-    <link rel="stylesheet" href="css/site.css" />
-    <link rel="stylesheet" href="css/segundaTela.css" />
-    <link rel="stylesheet" href="css/terceiraTela.css" />
+    <link rel="stylesheet" href="/css/site.css" />
+    <link rel="stylesheet" href="/css/segundaTela.css" />
+    <link rel="stylesheet" href="/css/terceiraTela.css" />
 </head>
 <body class="scroll-stage" data-carousel-stage="0">
     <div class="scroll-wrapper" data-scroll-wrapper>
@@ -14,14 +14,14 @@
             <div class="padrao-fundo" aria-hidden="true"></div>
 
             <header class="barra-topo">
-                <img class="logo-marca" src="img/logo.png" alt="Speed Zone" />
-                <img class="avatar-perfil" src="img/perfil.png" alt="Perfil do usuário" />
+                <img class="logo-marca" src="/img/logo.png" alt="Speed Zone" />
+                <a asp-controller="Home" asp-action="Login"><img class="avatar-perfil" src="/img/perfil.png" alt="Perfil do usuário" /></a>
             </header>
 
             <main class="conteudo">
                 <div class="moldura-video">
                     <video class="video-destaque"
-                           src="img/bugattiChiron.mp4"
+                           src="/img/bugattiChiron.mp4"
                            autoplay
                            loop
                            muted
@@ -51,7 +51,7 @@
         <section class="screen screen--secondary segunda-tela" data-screen="1" id="screen-1">
             <div class="tela-revelacao">
                 <video class="tela-revelacao__video"
-                       src="img/mcLaren720S.mp4"
+                       src="/img/mcLaren720S.mp4"
                        autoplay
                        loop
                        muted
@@ -172,8 +172,8 @@
                 </div>
 
                 <header class="barra-topo segunda-tela__topo">
-                    <img class="logo-marca" src="img/logo.png" alt="Speed Zone" />
-                    <img class="avatar-perfil" src="img/perfil.png" alt="Perfil do usuário" />
+                    <img class="logo-marca" src="/img/logo.png" alt="Speed Zone" />
+                    <img class="avatar-perfil" src="/img/perfil.png" alt="Perfil do usuário" />
                 </header>
 
                 <div class="conteudo-central">
@@ -198,8 +198,8 @@
 
         <section class="screen terceira-tela" data-screen="2" aria-label="Terceira tela" id="screen-2">
             <header class="barra-topo">
-                <img class="logo-marca" src="img/logo.png" alt="Speed Zone" />
-                <img class="avatar-perfil" src="img/perfil.png" alt="Perfil do usuário" />
+                <img class="logo-marca" src="/img/logo.png" alt="Speed Zone" />
+                <img class="avatar-perfil" src="/img/perfil.png" alt="Perfil do usuário" />
             </header>
 
             <div class="terceira-tela__titulo" aria-live="polite">
@@ -209,25 +209,25 @@
             </div>
 
             <div class="terceira-tela__logo" aria-hidden="true">
-                <img class="terceira-tela__logo-img terceira-tela__logo-img--primary" src="img/ford_logo.png" alt="Ford" />
-                <img class="terceira-tela__logo-img terceira-tela__logo-img--secondary" src="img/pagani_logo.png" alt="Pagani" />
-                <img class="terceira-tela__logo-img terceira-tela__logo-img--tertiary" src="img/chevrolet_logo.png" alt="Chevrolet" />
+                <img class="terceira-tela__logo-img terceira-tela__logo-img--primary" src="/img/ford_logo.png" alt="Ford" />
+                <img class="terceira-tela__logo-img terceira-tela__logo-img--secondary" src="/img/pagani_logo.png" alt="Pagani" />
+                <img class="terceira-tela__logo-img terceira-tela__logo-img--tertiary" src="/img/chevrolet_logo.png" alt="Chevrolet" />
             </div>
 
             <div class="terceira-tela__pista" aria-live="polite">
                 <div class="terceira-tela__carro terceira-tela__carro--ford">
-                    <img src="img/blue_car.png" alt="Carro esportivo azul clássico" />
+                    <img src="/img/blue_car.png" alt="Carro esportivo azul clássico" />
                 </div>
                 <div class="terceira-tela__carro terceira-tela__carro--pagani">
-                    <img src="img/darkblue_car.png" alt="Pagani Zonda HP supercar" />
+                    <img src="/img/darkblue_car.png" alt="Pagani Zonda HP supercar" />
                 </div>
                 <div class="terceira-tela__carro terceira-tela__carro--corvette">
-                    <img src="img/orange_car.png" alt="Chevrolet Corvette Z06 supercar" />
+                    <img src="/img/orange_car.png" alt="Chevrolet Corvette Z06 supercar" />
                 </div>
             </div>
 
             <div class="terceira-tela__cta" aria-live="polite">
-                <a class="terceira-tela__cta-botao" href="brands.html">COMEÇE AGORA</a>
+                <a class="terceira-tela__cta-botao" asp-controller="Home" asp-action="Brands">COMEÇE AGORA</a>
             </div>
 
             <footer class="navegacao-inferior">
@@ -245,6 +245,6 @@
         </section>
     </div>
 
-    <script src="js/site.js" defer></script>
+    <script src="/js/site.js" defer></script>
 </body>
 </html>

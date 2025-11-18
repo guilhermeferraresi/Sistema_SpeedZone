@@ -18,6 +18,7 @@ body {
     background: linear-gradient(132deg, #09090f 0%, #08070b 48%, #21060a 100%), radial-gradient(circle at 18% 24%, rgba(210, 32, 32, 0.45), rgba(15, 8, 10, 0) 58%), radial-gradient(circle at 84% 68%, rgba(165, 20, 35, 0.42), rgba(5, 5, 8, 0) 62%), #040306;
     position: relative;
     overflow-x: hidden;
+    margin-left: -165px;
 }
 
 .on-secondary {
@@ -119,7 +120,8 @@ body::after {
 
 .moldura-video {
     position: relative;
-    width: min(calc(100vw - 120px), 1080px);
+    width: 70%;
+    /*min(calc(100vw - 120px), 1080px)*/
     aspect-ratio: 16 / 9;
     background: #050505;
     display: flex;

@@ -7,6 +7,7 @@ create table tbUsuario(
     Nome varchar(50) unique not null,
     CPF bigint unique not null,
     DataNasc date not null,
+    Sexo char(1) not null,
     Telefone varchar(20) not null,
     Email varchar (50) not null,
     Senha varchar(100) not null,
@@ -16,11 +17,15 @@ create table tbUsuario(
     rg varchar(15) not null
 );
 
+insert into tbUsuario(nome, cpf, datanasc, sexo, telefone, email, senha, numend, cep, compend, rg) values("Guilherme Ferraresi", "50887741843", "2008-01-11", "M", "11994944785", "gui.ferraresi2008@gmail.com", "12345678", 1600, "06026090", "Apto. 52E", "577236945");
+select * from tbusuario;
+
 create table tbFunc(
 	IdFunc int primary key auto_increment,
     Nome varchar(50) unique not null,
     CPF bigint unique not null,
     DataNasc date not null,
+    Sexo char(1) not null,
     Telefone varchar(20) not null,
     Email varchar (50) not null,
     NumEnd int not null,
