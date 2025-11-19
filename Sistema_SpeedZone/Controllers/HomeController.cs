@@ -25,56 +25,12 @@ namespace Sistema_SpeedZone.Controllers
             _loginUsuario = loginUsuario;
         }
 
-        public IActionResult Login()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public IActionResult Login([FromForm] Usuario usuario)
-        {
-            Usuario usuarioDB = _clienteRepository.Login(usuario.Email, usuario.Senha);
-
-            if(usuarioDB.Email != null && usuarioDB.Senha != null)
-            {
-                _loginUsuario.Login(usuarioDB);
-                return new RedirectResult(Url.Action(nameof(Index)));
-            }
-            else
-            {
-                //Erro na sessão
-                ViewData["MSG_E"] = "Usuário não localizado, por favor verifique se o e-mail e a senha esão digitados corretamente.";
-                return View();
-            }
-        }
-
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Cadastro()
-        {
-            return View();
-        }
-        [HttpPost]
-        public IActionResult Cadastro(Usuario usuario)
-        {
-            if (ModelState.IsValid)
-            {
-                _clienteRepository.Cadastrar(usuario);
-
-                return RedirectToAction("Login");
-            }
-            return View(usuario);
-        }
-
         public IActionResult segundaTela()
-        {
-            return View();
-        }
-
-        public IActionResult Personalizacao()
         {
             return View();
         }
@@ -99,17 +55,7 @@ namespace Sistema_SpeedZone.Controllers
             return View();
         }
 
-        public IActionResult Resumo()
-        {
-            return View();
-        }
-
-        public IActionResult Compra()
-        {
-            ViewBag.Nome = "Guilherme";
-            return View();
-        }
-
+       
         public IActionResult Cartao()
         {
             return View();

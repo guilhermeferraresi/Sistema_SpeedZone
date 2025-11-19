@@ -15,10 +15,10 @@ namespace Sistema_SpeedZone.Models
         [Required(ErrorMessage = "A data é obrigatória")]
         public DateTime Nascimento { get; set; }
 
-        [Display(Name = "Sexo")]
-        [Required(ErrorMessage = "Selecione uma opção")]
-        [StringLength(1, ErrorMessage = "Deve conter 1 caracter")]
-        public string Sexo { get; set; }
+        //[Display(Name = "Sexo")]
+        //[Required(ErrorMessage = "Selecione uma opção")]
+        //[StringLength(1, ErrorMessage = "Deve conter 1 caracter")]
+       // public string Sexo { get; set; }
 
         [Display(Name = "CPF")]
         [Required(ErrorMessage = "O CPF é obrigatório")]

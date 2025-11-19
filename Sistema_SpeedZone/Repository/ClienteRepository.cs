@@ -21,17 +21,20 @@ namespace Sistema_SpeedZone.Repository
             {
                 conexao.Open();
 
-                MySqlCommand cmd = new MySqlCommand("insert into tbUsuario(nome, cpf, datanasc, sexo, telefone, email, senha, numend, cep, compend, rg)" +
-                    " values (@Nome, @Nascimento, @Sexo, @CPF, @Telefone, @Email, @Senha, @RG)", conexao); // @: PARAMETRO
+                MySqlCommand cmd = new MySqlCommand("insert into tbUsuario(nome, cpf, datanasc, telefone, email, senha, numend, cep, compend, rg)" +
+                    " values (@Nome, @CPF, @Nascimento,  @Telefone, @Email, @Senha, @NumEnd, @CEP, @Compend, @RG)", conexao); // @: PARAMETRO
 
                 cmd.Parameters.Add("@Nome", MySqlDbType.VarChar).Value = usuario.Nome;
                 cmd.Parameters.Add("@Nascimento", MySqlDbType.DateTime).Value = usuario.Nascimento.ToString("yyyy/MM/dd");
-                cmd.Parameters.Add("@Sexo", MySqlDbType.VarChar).Value = usuario.Sexo;
+                //cmd.Parameters.Add("@Sexo", MySqlDbType.VarChar).Value = usuario.Sexo;
                 cmd.Parameters.Add("@CPF", MySqlDbType.VarChar).Value = usuario.CPF;
                 cmd.Parameters.Add("@RG", MySqlDbType.VarChar).Value = usuario.RG;
                 cmd.Parameters.Add("@Telefone", MySqlDbType.VarChar).Value = usuario.Telefone;
                 cmd.Parameters.Add("@Email", MySqlDbType.VarChar).Value = usuario.Email;
                 cmd.Parameters.Add("@Senha", MySqlDbType.VarChar).Value = usuario.Senha;
+                cmd.Parameters.Add("@NumEnd", MySqlDbType.VarChar).Value = usuario.Numero;
+                cmd.Parameters.Add("@CEP", MySqlDbType.VarChar).Value = usuario.CEP;
+                cmd.Parameters.Add("@Compend", MySqlDbType.VarChar).Value = usuario.Complemento;
 
                 cmd.ExecuteNonQuery();
                 conexao.Close();
@@ -62,7 +65,7 @@ namespace Sistema_SpeedZone.Repository
                     usuario.Nome = Convert.ToString(dr["Nome"]);
                     usuario.Nascimento = Convert.ToDateTime(dr["DataNasc"]);
 
-                    usuario.Sexo = Convert.ToString(dr["Sexo"]);
+                    //usuario.Sexo = Convert.ToString(dr["Sexo"]);
                     usuario.CPF = Convert.ToString(dr["CPF"]);
                     usuario.RG = Convert.ToString(dr["RG"]);
                     usuario.Telefone = Convert.ToString(dr["Telefone"]);

@@ -55,12 +55,6 @@ C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\scoped
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets\msbuild.Sistema_SpeedZone.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets\msbuild.Sistema_SpeedZone.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets\msbuild.build.Sistema_SpeedZone.props
-C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sistema_SpeedZone.props
-C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sistema_SpeedZone.props
-C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_SpeedZone.dll
 C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\refint\Sistema_SpeedZone.dll
@@ -88,3 +82,28 @@ C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bi
 C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_SpeedZone.csproj.AssemblyReference.cache
 C:\Users\55119\OneDrive\Área de Trabalho\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_.083BDF05.Up2Date
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_SpeedZone.csproj.AssemblyReference.cache
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\3ds\Desktop\Sistema_SpeedZone\Sistema_SpeedZone\obj\Debug\net8.0\Sistema_.083BDF05.Up2Date

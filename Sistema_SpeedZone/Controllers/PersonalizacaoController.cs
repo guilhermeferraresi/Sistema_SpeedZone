@@ -11,23 +11,7 @@ namespace Sistema_SpeedZone.Controllers
         {
             _modeloRepository = modeloRepository;
         }
-        public async Task<IActionResult> Pintura()
-        {
-            var cartItems = _modeloRepository.Pinturas(HttpContext.Session);
-            return View(cartItems);
-        }
-
-        public IActionResult Teto()
-        {
-            return View();
-        }
-
-        public IActionResult Pneus()
-        {
-            return View();
-        }
-
-        public IActionResult Kits()
+        public IActionResult Personalizacao()
         {
             return View();
         }
