@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using Sistema_SpeedZone.Libraries.Login;
 using Sistema_SpeedZone.Models;
 using Sistema_SpeedZone.Repository.Contract;
@@ -24,14 +25,6 @@ namespace Sistema_SpeedZone.Controllers
             _loginUsuario = loginUsuario;
         }
 
-        public IActionResult PainelCliente()
-        {
-            ViewBag.Nome = _loginUsuario.GetUsuario().Nome;
-            ViewBag.CPF = _loginUsuario.GetUsuario().CPF;
-            ViewBag.Email = _loginUsuario.GetUsuario().Email;
-            return View();
-        }
-
         public IActionResult Login()
         {
             return View();
@@ -45,7 +38,7 @@ namespace Sistema_SpeedZone.Controllers
             if(usuarioDB.Email != null && usuarioDB.Senha != null)
             {
                 _loginUsuario.Login(usuarioDB);
-                return new RedirectResult(Url.Action(nameof(PainelCliente)));
+                return new RedirectResult(Url.Action(nameof(Index)));
             }
             else
             {
@@ -59,7 +52,34 @@ namespace Sistema_SpeedZone.Controllers
         {
             return View();
         }
+
+        public IActionResult Cadastro()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Cadastro(Usuario usuario)
+        {
+            if (ModelState.IsValid)
+            {
+                _clienteRepository.Cadastrar(usuario);
+
+                return RedirectToAction("Login");
+            }
+            return View(usuario);
+        }
+
         public IActionResult segundaTela()
+        {
+            return View();
+        }
+
+        public IActionResult Personalizacao()
+        {
+            return View();
+        }
+
+        public IActionResult Cars()
         {
             return View();
         }
@@ -75,6 +95,22 @@ namespace Sistema_SpeedZone.Controllers
         }
 
         public IActionResult Brands3()
+        {
+            return View();
+        }
+
+        public IActionResult Resumo()
+        {
+            return View();
+        }
+
+        public IActionResult Compra()
+        {
+            ViewBag.Nome = "Guilherme";
+            return View();
+        }
+
+        public IActionResult Cartao()
         {
             return View();
         }

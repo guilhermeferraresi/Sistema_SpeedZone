@@ -64,7 +64,7 @@ create table tbPedido(
     IdPersonalizacao int not null,
     idFuncAprovador int not null,
 	DataPedido datetime not null,
-    StatusPedido varchar(30) not null,
+    StatusPedido char(1) not null,
     ValorTotal decimal(10,2) not null
 );
 
@@ -74,7 +74,11 @@ create table tbModelo(
     Nome varchar(40) not null,
     Ano int not null,
     CategoriaCarro varchar(30) not null,
-    Img varchar(70) not null
+    Img varchar(70) not null,
+    Descricao varchar(500) not null,
+	HP varchar(10) not null,
+    Motor varchar(10) not null,
+    Torque varchar(10) not null
 );
 
 create table tbPersonalizacao(
@@ -93,7 +97,8 @@ create table tbPeca(
 create table tbPintura(
 	IdCor int primary key auto_increment, 
 	IdPeca int not null,
-    TipoCor varchar(50) not null
+    TipoCor varchar(50) not null,
+    CodigoCor varchar(10) not null
 );
 
 create table tbPneu(
@@ -182,47 +187,47 @@ alter table tbCinto add constraint fk_idPecaCinto foreign key(IdPeca) references
 alter table tbCorInterior add constraint fk_idPecaCorInts foreign key(IdPeca) references tbPeca(IdPeca);
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('cor', 8500.00, 'img/cor/arancio_xanto'),
-('cor', 8000.00, 'img/cor/bianco_asopo'),
-('cor', 8700.00, 'img/cor/blu_nethuns'),
-('cor', 8600.00, 'img/cor/giallo_belenus'),
-('cor', 8300.00, 'img/cor/grigio_telesto'),
-('cor', 8900.00, 'img/cor/rosso_anteros'),
-('cor', 9000.00, 'img/cor/rosso_mars'),
-('cor', 8200.00, 'img/cor/verde_lares'),
-('cor', 8800.00, 'img/cor/verde_mantis'),
-('cor', 8700.00, 'img/cor/arancio_borealis'),
-('cor', 8100.00, 'img/cor/bianco_icarus'),
-('cor', 8000.00, 'img/cor/bianco_monocerus'),
-('cor', 8600.00, 'img/cor/blu_astraeus'),
-('cor', 8700.00, 'img/cor/blu_eleos'),
-('cor', 8500.00, 'img/cor/giallo_auge'),
-('cor', 8500.00, 'img/cor/giallo_inti');
+('cor', 8500.00, '/img/cor/grigio_nimbus'),
+('cor', 8000.00, '/img/cor/verde_mantis'),
+('cor', 8700.00, '/img/cor/rosso_anteros'),
+('cor', 8600.00, '/img/cor/arancio_borealis'),
+('cor', 8300.00, '/img/cor/blu_astraeus'),
+('cor', 8900.00, '/img/cor/blue_eleos'),
+('cor', 9000.00, '/img/cor/giallo_auge'),
+('cor', 8200.00, '/img/cor/giallo_inti'),
+('cor', 8800.00, '/img/cor/grigio_keres'),
+('cor', 8700.00, '/img/cor/grigio_nimbus'),
+('cor', 8100.00, '/img/cor/marrone_alcestis'),
+('cor', 8000.00, '/img/cor/nero_helene'),
+('cor', 8600.00, '/img/cor/nero_noctis'),
+('cor', 8700.00, '/img/cor/rosso_anteros'),
+('cor', 8500.00, '/img/cor/rosso_mars'),
+('cor', 8500.00, '/img/cor/verde_mantis');
 
-INSERT INTO tbPintura (IdPeca, TipoCor) VALUES
-(1, 'Arancio Xanto'),
-(2, 'Bianco Asopo'),
-(3, 'Blu Nethuns'),
-(4, 'Giallo Belenus'),
-(5, 'Grigio Telesto'),
-(6, 'Rosso Anteros'),
-(7, 'Rosso Mars'),
-(8, 'Verde Lares'),
-(9, 'Verde Mantis'),
-(10, 'Arancio Borealis'),
-(11, 'Bianco Icarus'),
-(12, 'Bianco Monocerus'),
-(13, 'Blu Astraeus'),
-(14, 'Blu Eleos'),
-(15, 'Giallo Auge'),
-(16, 'Giallo Inti');
+INSERT INTO tbPintura (IdPeca, TipoCor, CodigoCor) VALUES
+(1, 'Arancio Xanto', "9F9FA2"),
+(2, 'Bianco Asopo', "568A1F"),
+(3, 'Blu Nethuns', "DF4039"),
+(4, 'Giallo Belenus', "FE9F56"),
+(5, 'Grigio Telesto', "00174C"),
+(6, 'Rosso Anteros', "3460B2"),
+(7, 'Rosso Mars', "FEB626"),
+(8, 'Verde Lares', "EBBD39"),
+(9, 'Verde Mantis', "545656"),
+(10, 'Arancio Borealis', "A0A0A3"),
+(11, 'Bianco Icarus', "261D12"),
+(12, 'Bianco Monocerus', "0C0C0B"),
+(13, 'Blu Astraeus', "000000"),
+(14, 'Blu Eleos', "E83126"),
+(15, 'Giallo Auge', "AF2025"),
+(16, 'Giallo Inti', "578A20");
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('Aro', 15000.00, 'img/aro/altanero_bronze_diamond_cut'),
-('Aro', 15500.00, 'img/aro/altanero_titanium_matt_diamond_cut'),
-('Aro', 15200.00, 'img/aro/altanero_titanium_shiny'),
-('Aro', 15800.00, 'img/aro/altanero_shiny_black_diamond_cut'),
-('Aro', 14900.00, 'img/aro/altanero_shiny_black');
+('Aro', 15000.00, '/img/aro/altanero_bronze_diamond_cut'),
+('Aro', 15500.00, '/img/aro/altanero_titanium_matt_diamond_cut'),
+('Aro', 15200.00, '/img/aro/altanero_titanium_shiny'),
+('Aro', 15800.00, '/img/aro/altanero_shiny_black_diamond_cut'),
+('Aro', 14900.00, '/img/aro/altanero_shiny_black');
 
 INSERT INTO tbAro (IdPeca, Tipo) VALUES
 (17, 'Rims Altanero Bronze Diamond cut (21"|22" forged)'),
@@ -232,22 +237,22 @@ INSERT INTO tbAro (IdPeca, Tipo) VALUES
 (21, 'Rims Altanero Shiny Black (21"|22" forged)');
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('pneu', 5200.00, 'img/pneu/bridgestone_sport_tires_20_21_rft'),
-('pneu', 4800.00, 'img/pneu/bridgestone_sport_tires_20_21');
+('pneu', 5200.00, '/img/pneu/bridgestone_sport_tires_20_21_rft'),
+('pneu', 4800.00, '/img/pneu/bridgestone_sport_tires_20_21');
 
 INSERT INTO tbPneu (IdPeca, Tipo) VALUES
 (22, 'Bridgestone Sport Tires 20"/21" RFT'),
 (23, 'Bridgestone Sport Tires 20"/21');
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('freio', 9000.00, 'img/freio/matt_black_ccb_brake_calipers'),
-('freio', 9200.00, 'img/freio/bronzo_ccb_brake_calipers'),
-('freio', 9500.00, 'img/freio/verde_chiaro_ccb_brake_calipers'),
-('freio', 9400.00, 'img/freio/arancio_ccb_brake_calipers'),
-('freio', 9300.00, 'img/freio/blu_ccb_brake_calipers'),
-('freio', 9100.00, 'img/freio/bianco_ccb_brake_calipers'),
-('freio', 9600.00, 'img/freio/giallo_ccb_brake_calipers'),
-('freio', 9700.00, 'img/freio/verde_ccb_brake_calipers');
+('freio', 9000.00, '/img/freio/matt_black_ccb_brake_calipers'),
+('freio', 9200.00, '/img/freio/bronzo_ccb_brake_calipers'),
+('freio', 9500.00, '/img/freio/verde_chiaro_ccb_brake_calipers'),
+('freio', 9400.00, '/img/freio/arancio_ccb_brake_calipers'),
+('freio', 9300.00, '/img/freio/blu_ccb_brake_calipers'),
+('freio', 9100.00, '/img/freio/bianco_ccb_brake_calipers'),
+('freio', 9600.00, '/img/freio/giallo_ccb_brake_calipers'),
+('freio', 9700.00, '/img/freio/verde_ccb_brake_calipers');
 
 INSERT INTO tbFreio (IdPeca, Tipo) VALUES
 (24, 'Matt black CCB brake Calipers'),
@@ -260,10 +265,10 @@ INSERT INTO tbFreio (IdPeca, Tipo) VALUES
 (31, 'Verde CCB brake Calipers');
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('teto', 7000.00, 'img/teto/engine_grilles_matt_black'),
-('teto', 7200.00, 'img/teto/engine_grilles_grigio_titans'),
-('teto', 8000.00, 'img/teto/upper_matt_black_livery'),
-('teto', 8200.00, 'img/teto/upper_shiny_black_livery');
+('teto', 7000.00, '/img/teto/engine_grilles_matt_black'),
+('teto', 7200.00, '/img/teto/engine_grilles_grigio_titans'),
+('teto', 8000.00, '/img/teto/upper_matt_black_livery'),
+('teto', 8200.00, '/img/teto/upper_shiny_black_livery');
 
 INSERT INTO tbTeto (IdPeca, Tipo) VALUES
 (32, 'Engine grilles colored in matt black'),
@@ -272,14 +277,14 @@ INSERT INTO tbTeto (IdPeca, Tipo) VALUES
 (35, 'Upper shiny black livery (roof,A-pillars,livery on cofango)');
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('CorInterior', 3000.00, 'img/corinterior/nero_ade'),
-('CorInterior', 3200.00, 'img/corinterior/grigio_octans'),
-('CorInterior', 3300.00, 'img/corinterior/blu_delphinus'),
-('CorInterior', 3400.00, 'img/corinterior/rosso_burgundy'),	
-('CorInterior', 3500.00, 'img/corinterior/blu_amon'),
-('CorInterior', 3600.00, 'img/corinterior/arancio_apodis'),
-('CorInterior', 3700.00, 'img/corinterior/arancio_leonis'),
-('CorInterior', 3200.00, 'img/corinterior/bianco_leda');
+('CorInterior', 3000.00, '/img/corinterior/nero_ade'),
+('CorInterior', 3200.00, '/img/corinterior/grigio_octans'),
+('CorInterior', 3300.00, '/img/corinterior/blu_delphinus'),
+('CorInterior', 3400.00, '/img/corinterior/rosso_burgundy'),	
+('CorInterior', 3500.00, '/img/corinterior/blu_amon'),
+('CorInterior', 3600.00, '/img/corinterior/arancio_apodis'),
+('CorInterior', 3700.00, '/img/corinterior/arancio_leonis'),
+('CorInterior', 3200.00, '/img/corinterior/bianco_leda');
 
 INSERT INTO tbCorInterior (IdPeca, Tipo) VALUES
 (36, 'Nero Ade'),
@@ -292,10 +297,10 @@ INSERT INTO tbCorInterior (IdPeca, Tipo) VALUES
 (43, 'Bianco Leda');
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('Banco', 8500.00, 'img/banco/comfort_seats'),
-('Banco', 12500.00, 'img/banco/sport_seats_corsa_tex_pack'),
-('Banco', 18900.00, 'img/banco/fully_electric_and_heated_seats'),
-('Banco', 11000.00, 'img/banco/sport_seats');
+('Banco', 8500.00, '/img/banco/comfort_seats'),
+('Banco', 12500.00, '/img/banco/sport_seats_corsa_tex_pack'),
+('Banco', 18900.00, '/img/banco/fully_electric_and_heated_seats'),
+('Banco', 11000.00, '/img/banco/sport_seats');
 
 INSERT INTO tbBanco (IdPeca, Tipo) VALUES
 (1, 'Comfort Seats'),
@@ -304,12 +309,12 @@ INSERT INTO tbBanco (IdPeca, Tipo) VALUES
 (4, 'Sport Seats');
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('Cinto', 2200.00, 'img/cinto/marrone_elpis'),
-('Cinto', 2400.00, 'img/cinto/grigio_sirius'),
-('Cinto', 2500.00, 'img/cinto/rosso_efesto'),
-('Cinto', 2600.00, 'img/cinto/blu_cepheus'),
-('Cinto', 2500.00, 'img/cinto/rosso_alala'),
-('Cinto', 2700.00, 'img/cinto/giallo_taurus');
+('Cinto', 2200.00, '/img/cinto/marrone_elpis'),
+('Cinto', 2400.00, '/img/cinto/grigio_sirius'),
+('Cinto', 2500.00, '/img/cinto/rosso_efesto'),
+('Cinto', 2600.00, '/img/cinto/blu_cepheus'),
+('Cinto', 2500.00, '/img/cinto/rosso_alala'),
+('Cinto', 2700.00, '/img/cinto/giallo_taurus');
 
 INSERT INTO tbCinto (IdPeca, Tipo) VALUES
 (5, 'Marrone Elpis'),
@@ -319,9 +324,9 @@ INSERT INTO tbCinto (IdPeca, Tipo) VALUES
 (9, 'Rosso Alala'),
 (10, 'Giallo Taurus');
 
-insert into tbModelo(marca, nome, ano, categoriacarro, img) values
-("Lamborghini", "Revuelto", 2025, "Esportivo", "img/revuelto"),
-("Lamborghini", "Temerario", 2025, "Esportivo", "img/temerario"),
-("Lamborghini", "Urus", 2025, "USV", "img/urus");
+insert into tbModelo(marca, nome, ano, categoriacarro, img, hp, torque, motor, Descricao) values
+("Lamborghini", "Urus", 2025, "SUV", "/img/revuelto", "650cv", "86,7 kgfm", "V8", "A Lamborghini Urus é o primeiro Super SUV (Super Sport Utility Vehicle) do mundo, unindo a alma de um superesportivo com a funcionalidade prática de um utilitário esportivo. Impulsionado pelo motor V8 biturbo de 4,0 litros da Lamborghini."),
+("Lamborghini", "Revuelto", 2025, "Esportivo", "/img/temerario", "1015cv", "77,0 kgfm", "V12", "Pouco antes do 60º aniversário da marca, a Lamborghini revelou o Revuelto, o primeiro superesportivo híbrido HPEV (High Performance Electrified Vehicle). Com o Revuelto, a Lamborghini estabeleceu um novo padrão em desempenho, tecnologia a bordo e prazer ao dirigir."),
+("Lamborghini", "Temerario", 2025, "USV", "/img/urus", "920cv", "74,4", "V8", "Pouco antes de inaugurar uma nova era em sua linha de veículos eletrificados, a Lamborghini apresentou o Temerario, o sucessor direto do Huracán e o mais recente superesportivo equipado com motorização híbrida V8.");
 
 select * from tbpeca;

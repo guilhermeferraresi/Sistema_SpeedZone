@@ -1,0 +1,41 @@
+﻿@model Usuario
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Speed Zone</title>
+    <link rel="stylesheet" href="/css/endereco.css" />
+</head>
+<body class="endereco-page">
+
+    <form asp-action="Cadastrar" asp-controller="Home" method="post" class="endereco-shell">
+
+        <div class="endereco-form">
+            <p class="endereco-legenda">INFORMAÇÕES DE REGISTRO</p>
+
+            <label class="endereco-label">EMAIL</label>
+            <input class="endereco-input" asp-for="Email" placeholder="Digite seu email" />
+
+            <label class="endereco-label">SENHA</label>
+            <input class="endereco-input" asp-for="Senha" type="password" placeholder="Digite sua senha" />
+
+            <label class="endereco-label">CONFIRME A SENHA</label>
+            <input class="endereco-input" type="password" name="ConfirmarSenha" placeholder="Confirme a senha" />
+
+            <div class="endereco-actions">
+                <a asp-controller="Home" asp-action="Endereco" class="endereco-button">VOLTAR</a>
+                <button type="submit" class="endereco-button" asp-controller="Home" asp-action="Login">FINALIZAR</button>
+            </div>
+        </div>
+
+        <div class="endereco-brand">
+            <img src="/img/logo.png" alt="Speed Zone" />
+        </div>
+
+    </form>
+
+    <p class="endereco-tagline">Se puder ser comparado, não é nosso</p>
+</body>
+</html>

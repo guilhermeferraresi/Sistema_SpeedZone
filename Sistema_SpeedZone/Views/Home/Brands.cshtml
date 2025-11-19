@@ -9,8 +9,8 @@
 <body class="final-page">
     <div class="brands-shell">
         <header class="barra-topo">
-            <img class="logo-marca" src="/img/logo.png" alt="Speed Zone" />
-            <img class="avatar-perfil" src="/img/perfil.png" alt="Perfil do usuário" />
+            <a asp-controller="Home" asp-action="Index"><img class="logo-marca" src="/img/logo.png" alt="Speed Zone" /></a>
+            <a asp-controller="Home" asp-action="Login"><img class="avatar-perfil" src="/img/perfil.png" alt="Perfil do usuário" /></a>
         </header>
 
         <main class="brands-content">
@@ -46,7 +46,7 @@
                                 <a class="brands-card" href="#" aria-label="Jaguar"><img src="/img/jaguar_logo.png" alt="Logotipo Jaguar" /><span>Jaguar</span></a>
                             </div>
                             <div class="brands-column">
-                                <a class="brands-card" href="#" aria-label="Lamborghini"><img src="/img/lamborghini_logo.png" alt="Logotipo Lamborghini" /><span>Lamborghini</span></a>
+                                <a class="brands-card" asp-controller="Home" asp-action="Cars" aria-label="Lamborghini"><img src="/img/lamborghini_logo.png" alt="Logotipo Lamborghini" /><span>Lamborghini</span></a>
                                 <a class="brands-card" href="#" aria-label="Land Rover"><img src="/img/landrover_logo.png" alt="Logotipo Land Rover" /><span>Land Rover</span></a>
                                 <a class="brands-card" href="#" aria-label="Maserati"><img src="/img/maserati_logo.png" alt="Logotipo Maserati" /><span>Maserati</span></a>
                                 <a class="brands-card" href="#" aria-label="Mercedes"><img src="/img/mercedes_logo.png" alt="Logotipo Mercedes" /><span>Mercedes</span></a>

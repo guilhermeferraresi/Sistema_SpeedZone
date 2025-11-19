@@ -1,0 +1,82 @@
+﻿@model Sistema_SpeedZone.Models.Usuario;
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Speed Zone</title>
+    <link rel="stylesheet" href="/css/cadastro.css" />
+</head>
+<body class="cadastro-page">
+    <div class="cadastro-shell">
+        <div class="cadastro-form">
+            <form asp-action="Cadastro" method="post">
+
+                <div id="parteFormUm" class="visivel">
+                    <p class="cadastro-legenda">INFORMAÇÕES DO CLIENTE</p>
+
+                    <label>NOME COMPLETO</label>
+                    <input asp-for="Nome" class="cadastro-input" type="text" required />
+
+                    <label>CPF</label>
+                    <input asp-for="CPF" class="cadastro-input" type="text" required />
+
+                    <label>RG</label>
+                    <input asp-for="RG" class="cadastro-input" type="text" required />
+
+                    <label>DATA DE NASCIMENTO</label>
+                    <input asp-for="Nascimento" class="cadastro-input" type="date" required />
+
+                    <label>TELEFONE</label>
+                    <input asp-for="Telefone" class="cadastro-input" type="tel" required />
+                </div>
+
+                <div id="parteFormDois" class="invisivel">
+                    <p class="cadastro-legenda">INFORMAÇÕES DE ENDEREÇO</p>
+
+                    <label>CEP</label>
+                    <input asp-for="CEP" class="cadastro-input" type="text" required />
+
+                    <label>RUA</label>
+                    <input class="cadastro-input" type="text" required />
+
+                    <label>NÚMERO</label>
+                    <input asp-for="Numero" class="cadastro-input" type="text" required />
+
+                    <label>COMPLEMENTO</label>
+                    <input asp-for="Complemento" class="cadastro-input" type="text" required />
+                </div>
+
+                <div id="parteFormTres" class="invisivel">
+                    <p class="cadastro-legenda">INFORMAÇÕES DE REGISTRO</p>
+
+                    <label>EMAIL</label>
+                    <input asp-for="Email" class="cadastro-input" type="email" required />
+
+                    <label>SENHA</label>
+                    <input asp-for="Senha" class="cadastro-input" type="password" required/>
+
+                    <label>CONFIRMAR SENHA</label>
+                    <input class="cadastro-input" type="password" name="ConfirmaSenha" required />
+
+                    <button class="cadastro-button" type="submit" onclick="alert("Dados cadastrados!")>FINALIZAR</button>
+                </div>
+            </form>
+
+            <div class="dBotoesCad">
+                <button id="cadastro-button-voltar" class="invisivel">Voltar</button>
+                <button id="cadastro-button-continuar" class="visivel">CONTINUAR</button>
+            </div>
+
+        </div>
+
+        <div class="cadastro-brand">
+            <img class="img-cadastro" src="/img/logo.png" alt="Speed Zone" />
+        </div>
+    </div>
+
+    <p class="cadastro-tagline">Se puder ser comparado, não é nosso</p>
+</body>
+<script src="/js/cadastro.js"></script>
+</html>

@@ -24,6 +24,10 @@ namespace Sistema_SpeedZone.Models
         [Required(ErrorMessage = "O CPF é obrigatório")]
         public string CPF { get; set; }
 
+        [Display(Name = "RG")]
+        [Required(ErrorMessage = "O RG é obrigatório")]
+        public string RG { get; set; }
+
         [Display(Name = "Celular")]
         [Required(ErrorMessage = "O Celular é obrigatório")]
         public string Telefone { get; set; }

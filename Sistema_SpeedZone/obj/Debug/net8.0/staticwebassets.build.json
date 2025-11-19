@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AnK2gEA6tWx5NznIQx7hbg+YfqKoiCYLvHpUmpechyE=",
+  "Hash": "7IMB+H1S+VUjP7cSdCIup2gEGWOYBrZReBRU5zwp2W8=",
   "Source": "Sistema_SpeedZone",
   "BasePath": "_content/Sistema_SpeedZone",
   "Mode": "Default",
@@ -78,6 +78,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\brands.css"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "css/cadastro#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5i1t2zbj4m",
+      "Integrity": "IzXTRTGHdDqnggMmMd8lwr05VSsAEV/Q9CNoKmXu0/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\cadastro.css"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "css/Cars#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8z4p2gadzk",
+      "Integrity": "jLht87wy8m2lf6g4Jt4d1GpKa1tHl+vVUIyunG8KB8w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Cars.css"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "css/Cartao#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q2re4hwd95",
+      "Integrity": "btehRyCjuVzvLUSowFqEnrVlD8eLY9aubhh9+sncRGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Cartao.css"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "css/Compra#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yvrerkatlw",
+      "Integrity": "UtDTn7AU3DDfhh5n4tPnuuy4EFn2kZ939PKTX2nlryg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Compra.css"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "css/endereco#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gc5vbyxayz",
+      "Integrity": "MJB4qNlFPlWh60uc+GoP+3ePhy6a0KumCMRg84T0EZs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\endereco.css"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\login.css",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z2zuiv069f",
+      "Integrity": "G7vXEn1YZC1zc8q250Le5ROXSl+tbmfwxghUQ/VByb4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "css/Personalizacao#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mhf9sqp7oz",
+      "Integrity": "qkqJ1Dkr73MxvISv/Uuj9V1KcyzQ1W1T53JdAerr2bc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Personalizacao.css"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "css/Resumo#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yev8uru5sh",
+      "Integrity": "9mSuQCkAmlCP24JaJXNP+l46fbm8CiNRyob2Hh5TgBI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Resumo.css"
     },
     {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\segundaTela.css",
@@ -269,6 +437,27 @@
       "OriginalItemSpec": "wwwroot\\img\\bmw_logo.png"
     },
     {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\bodykitsicon.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/bodykitsicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zq0fiqewbg",
+      "Integrity": "i4uSTySBJSJtftybGd7mdY9lrb+aS+/Z7usAGHhQPvA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bodykitsicon.png"
+    },
+    {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\brands_bg.png",
       "SourceId": "Sistema_SpeedZone",
       "SourceType": "Discovered",
@@ -330,6 +519,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\bugattiChiron.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\cartaopagamento.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/cartaopagamento#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tc7ozfxz44",
+      "Integrity": "w1UGh2axZ1fnY5RvDHLFgQExf+jnb+jtQdvJzdJNzh4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cartaopagamento.png"
     },
     {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\chevrolet_logo.png",
@@ -416,6 +626,27 @@
       "OriginalItemSpec": "wwwroot\\img\\darkblue_car.png"
     },
     {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\destaque.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/destaque#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "za7y3kog8r",
+      "Integrity": "hXMEqJ+HVI/YwmX4YrklCOYqN9ZDLhZaTA3gU5bD+0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\destaque.png"
+    },
+    {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\ferrari_logo.png",
       "SourceId": "Sistema_SpeedZone",
       "SourceType": "Discovered",
@@ -479,6 +710,27 @@
       "OriginalItemSpec": "wwwroot\\img\\ford_logo.png"
     },
     {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\historialambo.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/historialambo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "525sfpd8xi",
+      "Integrity": "Y7RiqdtDsvXxUAdaBJrGqidEr5wx760DIw513M7ccGM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\historialambo.png"
+    },
+    {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\honda_logo.png",
       "SourceId": "Sistema_SpeedZone",
       "SourceType": "Discovered",
@@ -540,6 +792,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\jaguar_logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\lambobull.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/lambobull#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k768zqv6ky",
+      "Integrity": "kBPQLmfouLm6R9zsk/8D/jUjl1hjCN2sGt2SKBGd39c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\lambobull.png"
     },
     {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\lamborghini_logo.png",
@@ -815,6 +1088,48 @@
       "OriginalItemSpec": "wwwroot\\img\\peugeot_logo.png"
     },
     {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\pinturaicon.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/pinturaicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hzbzq064gs",
+      "Integrity": "kx4ZmUSJ1220iaBIuVVpmFiiaJxzkQhDX1u0J/drYvo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\pinturaicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\pneusicon.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/pneusicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "abp9hwmju2",
+      "Integrity": "ZjnPM1hLWykAnczdk5lfMXjVknAVQXG1p1+ePWE49wE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\pneusicon.png"
+    },
+    {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\porshe_logo.png",
       "SourceId": "Sistema_SpeedZone",
       "SourceType": "Discovered",
@@ -878,6 +1193,111 @@
       "OriginalItemSpec": "wwwroot\\img\\renault_logo.png"
     },
     {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revuelto.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/revuelto#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "de41pddci1",
+      "Integrity": "e1bfDcOLIjWRUHifVtihNEK8xmhjDw9JiG87j4Rv8UI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\revuelto.png"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltocompra.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/revueltocompra#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c2rxo35uc8",
+      "Integrity": "RNuxRJ3HeIVrMGBIqXU8eKHFd6JusI941j11at8f0KY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\revueltocompra.png"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltofinal.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/revueltofinal#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m9h5exf65d",
+      "Integrity": "qkiK9c25rh8F6oE2gkpZwew4OgrBfUtv6wop4avqM30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\revueltofinal.png"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltoinicial.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/revueltoinicial#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qsxuko26jm",
+      "Integrity": "ZmVbVQj1yjaqDTYbMqhRmFU+UEqK0zcwDjXkBXAc48w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\revueltoinicial.png"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltovermelho.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/revueltovermelho#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cfny92vkn3",
+      "Integrity": "GIyXuserS94pfm5eCYu45ydSjw0AImB5SbSGUm3AgpY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\revueltovermelho.png"
+    },
+    {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\rollsroyce_logo.png",
       "SourceId": "Sistema_SpeedZone",
       "SourceType": "Discovered",
@@ -920,6 +1340,48 @@
       "OriginalItemSpec": "wwwroot\\img\\search_icon.png"
     },
     {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\setaDireitaOpcao.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/setaDireitaOpcao#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "elzokiear2",
+      "Integrity": "MkYGf8G8n7Y4+KkQQrht0+hZAXGkHarK5KtIOrRTkas=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\setaDireitaOpcao.png"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\setaEsquerdaOpcao.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/setaEsquerdaOpcao#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vb7bnam8sz",
+      "Integrity": "Jcea0lqe5/zE38McMWylFL0lM1koGaxaXK20PYr3Ze0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\setaEsquerdaOpcao.png"
+    },
+    {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\sz_background.png",
       "SourceId": "Sistema_SpeedZone",
       "SourceType": "Discovered",
@@ -941,6 +1403,90 @@
       "OriginalItemSpec": "wwwroot\\img\\sz_background.png"
     },
     {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\temerario.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/temerario#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tviv1lat1k",
+      "Integrity": "WWZ0Tr2X8St/kXLsAQQHW3PrRYJtYC3kgVovwCoIB+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\temerario.png"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\tetoicon.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/tetoicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aroauiihbq",
+      "Integrity": "Kp5jJGp6sSSpAR7z372FlwsX5mYzjNJAk7zYj0GmMNc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\tetoicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\urus.png",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/urus#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j2ycsy49c5",
+      "Integrity": "exsNbEL4+PdkClFJ2WHIFOTwFEXOtu3S3j/K9CgKERo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\urus.png"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\videoInicio.mp4",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "img/videoInicio#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r9cd8dlnz5",
+      "Integrity": "oRRUMSuHZPylhjazOhdi5HKAMEgEa1Pw2AGDP1m+ER8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\videoInicio.mp4"
+    },
+    {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\brandsSlider.js",
       "SourceId": "Sistema_SpeedZone",
       "SourceType": "Discovered",
@@ -960,6 +1506,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\brandsSlider.js"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "js/cadastro#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8gzznopz99",
+      "Integrity": "yDpBSf7sVpzOk5Mo1mTt0C+dpe5Dd9wlOyT/fgfHw4c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\cadastro.js"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\compra.js",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "js/compra#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uhqanjxojr",
+      "Integrity": "XqiqRi0ZLsms7FBjo0cI4JQZS3uJZf+KgG0FyuYKdw0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\compra.js"
+    },
+    {
+      "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
+      "SourceId": "Sistema_SpeedZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\",
+      "BasePath": "_content/Sistema_SpeedZone",
+      "RelativePath": "js/personalizacao#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k12wg0y9rj",
+      "Integrity": "qL2XlAoBuibs1PQ4swSJkjiWe1FotwO1nwvx8x+/q6Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\personalizacao.js"
     },
     {
       "Identity": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\site.js",
@@ -2264,6 +2873,662 @@
       ]
     },
     {
+      "Route": "css/cadastro.5i1t2zbj4m.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IzXTRTGHdDqnggMmMd8lwr05VSsAEV/Q9CNoKmXu0/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:45:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5i1t2zbj4m"
+        },
+        {
+          "Name": "label",
+          "Value": "css/cadastro.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IzXTRTGHdDqnggMmMd8lwr05VSsAEV/Q9CNoKmXu0/A="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IzXTRTGHdDqnggMmMd8lwr05VSsAEV/Q9CNoKmXu0/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:45:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IzXTRTGHdDqnggMmMd8lwr05VSsAEV/Q9CNoKmXu0/A="
+        }
+      ]
+    },
+    {
+      "Route": "css/Cars.8z4p2gadzk.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jLht87wy8m2lf6g4Jt4d1GpKa1tHl+vVUIyunG8KB8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 11:31:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8z4p2gadzk"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Cars.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jLht87wy8m2lf6g4Jt4d1GpKa1tHl+vVUIyunG8KB8w="
+        }
+      ]
+    },
+    {
+      "Route": "css/Cars.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jLht87wy8m2lf6g4Jt4d1GpKa1tHl+vVUIyunG8KB8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 11:31:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jLht87wy8m2lf6g4Jt4d1GpKa1tHl+vVUIyunG8KB8w="
+        }
+      ]
+    },
+    {
+      "Route": "css/Cartao.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"btehRyCjuVzvLUSowFqEnrVlD8eLY9aubhh9+sncRGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:55:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-btehRyCjuVzvLUSowFqEnrVlD8eLY9aubhh9+sncRGo="
+        }
+      ]
+    },
+    {
+      "Route": "css/Cartao.q2re4hwd95.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"btehRyCjuVzvLUSowFqEnrVlD8eLY9aubhh9+sncRGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:55:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q2re4hwd95"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Cartao.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-btehRyCjuVzvLUSowFqEnrVlD8eLY9aubhh9+sncRGo="
+        }
+      ]
+    },
+    {
+      "Route": "css/Compra.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtDTn7AU3DDfhh5n4tPnuuy4EFn2kZ939PKTX2nlryg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:55:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtDTn7AU3DDfhh5n4tPnuuy4EFn2kZ939PKTX2nlryg="
+        }
+      ]
+    },
+    {
+      "Route": "css/Compra.yvrerkatlw.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtDTn7AU3DDfhh5n4tPnuuy4EFn2kZ939PKTX2nlryg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:55:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvrerkatlw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Compra.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtDTn7AU3DDfhh5n4tPnuuy4EFn2kZ939PKTX2nlryg="
+        }
+      ]
+    },
+    {
+      "Route": "css/endereco.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MJB4qNlFPlWh60uc+GoP+3ePhy6a0KumCMRg84T0EZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 03:33:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MJB4qNlFPlWh60uc+GoP+3ePhy6a0KumCMRg84T0EZs="
+        }
+      ]
+    },
+    {
+      "Route": "css/endereco.gc5vbyxayz.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MJB4qNlFPlWh60uc+GoP+3ePhy6a0KumCMRg84T0EZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 03:33:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gc5vbyxayz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/endereco.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MJB4qNlFPlWh60uc+GoP+3ePhy6a0KumCMRg84T0EZs="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7vXEn1YZC1zc8q250Le5ROXSl+tbmfwxghUQ/VByb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 02:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7vXEn1YZC1zc8q250Le5ROXSl+tbmfwxghUQ/VByb4="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.z2zuiv069f.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7vXEn1YZC1zc8q250Le5ROXSl+tbmfwxghUQ/VByb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 02:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z2zuiv069f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7vXEn1YZC1zc8q250Le5ROXSl+tbmfwxghUQ/VByb4="
+        }
+      ]
+    },
+    {
+      "Route": "css/Personalizacao.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4554"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qkqJ1Dkr73MxvISv/Uuj9V1KcyzQ1W1T53JdAerr2bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 07:04:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qkqJ1Dkr73MxvISv/Uuj9V1KcyzQ1W1T53JdAerr2bc="
+        }
+      ]
+    },
+    {
+      "Route": "css/Personalizacao.mhf9sqp7oz.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4554"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qkqJ1Dkr73MxvISv/Uuj9V1KcyzQ1W1T53JdAerr2bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 07:04:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mhf9sqp7oz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Personalizacao.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qkqJ1Dkr73MxvISv/Uuj9V1KcyzQ1W1T53JdAerr2bc="
+        }
+      ]
+    },
+    {
+      "Route": "css/Resumo.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9mSuQCkAmlCP24JaJXNP+l46fbm8CiNRyob2Hh5TgBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 07:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9mSuQCkAmlCP24JaJXNP+l46fbm8CiNRyob2Hh5TgBI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Resumo.yev8uru5sh.css",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9mSuQCkAmlCP24JaJXNP+l46fbm8CiNRyob2Hh5TgBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 07:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yev8uru5sh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Resumo.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9mSuQCkAmlCP24JaJXNP+l46fbm8CiNRyob2Hh5TgBI="
+        }
+      ]
+    },
+    {
       "Route": "css/segundaTela.clqt0ct76z.css",
       "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\segundaTela.css",
       "Selectors": [],
@@ -2368,7 +3633,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 01:17:42 GMT"
+          "Value": "Tue, 18 Nov 2025 11:31:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2405,7 +3670,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 01:17:42 GMT"
+          "Value": "Tue, 18 Nov 2025 11:31:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2614,7 +3879,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2659,7 +3924,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2696,7 +3961,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2733,7 +3998,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2778,7 +4043,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +4088,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,7 +4125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2905,7 +4170,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2942,7 +4207,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2987,7 +4252,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2998,6 +4263,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-/zZxY2mOxLasLod9SIlTpjq3LGtBFLSzer1FmWLvZWA="
+        }
+      ]
+    },
+    {
+      "Route": "img/bodykitsicon.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\bodykitsicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i4uSTySBJSJtftybGd7mdY9lrb+aS+/Z7usAGHhQPvA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i4uSTySBJSJtftybGd7mdY9lrb+aS+/Z7usAGHhQPvA="
+        }
+      ]
+    },
+    {
+      "Route": "img/bodykitsicon.zq0fiqewbg.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\bodykitsicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i4uSTySBJSJtftybGd7mdY9lrb+aS+/Z7usAGHhQPvA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zq0fiqewbg"
+        },
+        {
+          "Name": "label",
+          "Value": "img/bodykitsicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i4uSTySBJSJtftybGd7mdY9lrb+aS+/Z7usAGHhQPvA="
         }
       ]
     },
@@ -3024,7 +4371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3069,7 +4416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3106,7 +4453,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3151,7 +4498,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3248,6 +4595,88 @@
       ]
     },
     {
+      "Route": "img/cartaopagamento.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\cartaopagamento.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w1UGh2axZ1fnY5RvDHLFgQExf+jnb+jtQdvJzdJNzh4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w1UGh2axZ1fnY5RvDHLFgQExf+jnb+jtQdvJzdJNzh4="
+        }
+      ]
+    },
+    {
+      "Route": "img/cartaopagamento.tc7ozfxz44.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\cartaopagamento.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w1UGh2axZ1fnY5RvDHLFgQExf+jnb+jtQdvJzdJNzh4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tc7ozfxz44"
+        },
+        {
+          "Name": "label",
+          "Value": "img/cartaopagamento.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w1UGh2axZ1fnY5RvDHLFgQExf+jnb+jtQdvJzdJNzh4="
+        }
+      ]
+    },
+    {
       "Route": "img/chevrolet_logo.png",
       "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\chevrolet_logo.png",
       "Selectors": [],
@@ -3270,7 +4699,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3307,7 +4736,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3352,7 +4781,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3397,7 +4826,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3434,7 +4863,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3471,7 +4900,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3516,7 +4945,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3561,7 +4990,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3572,6 +5001,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-DFlmrQGCzwMCDe6wz5dHut8TprTBue82/TYkDxNKBFw="
+        }
+      ]
+    },
+    {
+      "Route": "img/destaque.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\destaque.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "785538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hXMEqJ+HVI/YwmX4YrklCOYqN9ZDLhZaTA3gU5bD+0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hXMEqJ+HVI/YwmX4YrklCOYqN9ZDLhZaTA3gU5bD+0A="
+        }
+      ]
+    },
+    {
+      "Route": "img/destaque.za7y3kog8r.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\destaque.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "785538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hXMEqJ+HVI/YwmX4YrklCOYqN9ZDLhZaTA3gU5bD+0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "za7y3kog8r"
+        },
+        {
+          "Name": "label",
+          "Value": "img/destaque.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hXMEqJ+HVI/YwmX4YrklCOYqN9ZDLhZaTA3gU5bD+0A="
         }
       ]
     },
@@ -3598,7 +5109,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3643,7 +5154,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3680,7 +5191,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3725,7 +5236,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3762,7 +5273,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3807,7 +5318,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3818,6 +5329,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-WNoACi2T7II+cpgiXVCjcXIg+5GSF3ZMFiBqRUx53ac="
+        }
+      ]
+    },
+    {
+      "Route": "img/historialambo.525sfpd8xi.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\historialambo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "511620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y7RiqdtDsvXxUAdaBJrGqidEr5wx760DIw513M7ccGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "525sfpd8xi"
+        },
+        {
+          "Name": "label",
+          "Value": "img/historialambo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y7RiqdtDsvXxUAdaBJrGqidEr5wx760DIw513M7ccGM="
+        }
+      ]
+    },
+    {
+      "Route": "img/historialambo.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\historialambo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "511620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y7RiqdtDsvXxUAdaBJrGqidEr5wx760DIw513M7ccGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y7RiqdtDsvXxUAdaBJrGqidEr5wx760DIw513M7ccGM="
         }
       ]
     },
@@ -3844,7 +5437,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3889,7 +5482,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3926,7 +5519,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3971,7 +5564,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4008,7 +5601,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4053,7 +5646,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4064,6 +5657,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-A5Gx1+DXGX17GN0Gy6lJRB0VOnpFdt9D1jRu3wZ3DT8="
+        }
+      ]
+    },
+    {
+      "Route": "img/lambobull.k768zqv6ky.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\lambobull.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kBPQLmfouLm6R9zsk/8D/jUjl1hjCN2sGt2SKBGd39c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k768zqv6ky"
+        },
+        {
+          "Name": "label",
+          "Value": "img/lambobull.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kBPQLmfouLm6R9zsk/8D/jUjl1hjCN2sGt2SKBGd39c="
+        }
+      ]
+    },
+    {
+      "Route": "img/lambobull.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\lambobull.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kBPQLmfouLm6R9zsk/8D/jUjl1hjCN2sGt2SKBGd39c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kBPQLmfouLm6R9zsk/8D/jUjl1hjCN2sGt2SKBGd39c="
         }
       ]
     },
@@ -4090,7 +5765,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4135,7 +5810,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4172,7 +5847,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4217,7 +5892,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4254,7 +5929,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4299,7 +5974,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4336,7 +6011,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4381,7 +6056,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4500,7 +6175,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4545,7 +6220,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4582,7 +6257,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4627,7 +6302,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4664,7 +6339,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4709,7 +6384,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4746,7 +6421,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4783,7 +6458,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4828,7 +6503,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4865,7 +6540,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4910,7 +6585,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4947,7 +6622,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4992,7 +6667,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5037,7 +6712,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5074,7 +6749,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5119,7 +6794,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5130,6 +6805,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-h8Ppo9uTnissCayF/1xHkG2C4J24GFoaiFpD19CcZRc="
+        }
+      ]
+    },
+    {
+      "Route": "img/pinturaicon.hzbzq064gs.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\pinturaicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kx4ZmUSJ1220iaBIuVVpmFiiaJxzkQhDX1u0J/drYvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hzbzq064gs"
+        },
+        {
+          "Name": "label",
+          "Value": "img/pinturaicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kx4ZmUSJ1220iaBIuVVpmFiiaJxzkQhDX1u0J/drYvo="
+        }
+      ]
+    },
+    {
+      "Route": "img/pinturaicon.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\pinturaicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kx4ZmUSJ1220iaBIuVVpmFiiaJxzkQhDX1u0J/drYvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kx4ZmUSJ1220iaBIuVVpmFiiaJxzkQhDX1u0J/drYvo="
+        }
+      ]
+    },
+    {
+      "Route": "img/pneusicon.abp9hwmju2.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\pneusicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjnPM1hLWykAnczdk5lfMXjVknAVQXG1p1+ePWE49wE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "abp9hwmju2"
+        },
+        {
+          "Name": "label",
+          "Value": "img/pneusicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZjnPM1hLWykAnczdk5lfMXjVknAVQXG1p1+ePWE49wE="
+        }
+      ]
+    },
+    {
+      "Route": "img/pneusicon.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\pneusicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjnPM1hLWykAnczdk5lfMXjVknAVQXG1p1+ePWE49wE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZjnPM1hLWykAnczdk5lfMXjVknAVQXG1p1+ePWE49wE="
         }
       ]
     },
@@ -5156,7 +6995,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5201,7 +7040,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5238,7 +7077,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5283,7 +7122,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5320,7 +7159,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5365,7 +7204,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5376,6 +7215,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-IO/cIxRJRVeB7g/JuOe28klonxMIPBZ46U4A+BvY5V0="
+        }
+      ]
+    },
+    {
+      "Route": "img/revuelto.de41pddci1.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revuelto.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e1bfDcOLIjWRUHifVtihNEK8xmhjDw9JiG87j4Rv8UI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "de41pddci1"
+        },
+        {
+          "Name": "label",
+          "Value": "img/revuelto.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e1bfDcOLIjWRUHifVtihNEK8xmhjDw9JiG87j4Rv8UI="
+        }
+      ]
+    },
+    {
+      "Route": "img/revuelto.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revuelto.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e1bfDcOLIjWRUHifVtihNEK8xmhjDw9JiG87j4Rv8UI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e1bfDcOLIjWRUHifVtihNEK8xmhjDw9JiG87j4Rv8UI="
+        }
+      ]
+    },
+    {
+      "Route": "img/revueltocompra.c2rxo35uc8.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltocompra.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RNuxRJ3HeIVrMGBIqXU8eKHFd6JusI941j11at8f0KY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c2rxo35uc8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/revueltocompra.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RNuxRJ3HeIVrMGBIqXU8eKHFd6JusI941j11at8f0KY="
+        }
+      ]
+    },
+    {
+      "Route": "img/revueltocompra.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltocompra.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RNuxRJ3HeIVrMGBIqXU8eKHFd6JusI941j11at8f0KY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RNuxRJ3HeIVrMGBIqXU8eKHFd6JusI941j11at8f0KY="
+        }
+      ]
+    },
+    {
+      "Route": "img/revueltofinal.m9h5exf65d.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltofinal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "425490"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qkiK9c25rh8F6oE2gkpZwew4OgrBfUtv6wop4avqM30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m9h5exf65d"
+        },
+        {
+          "Name": "label",
+          "Value": "img/revueltofinal.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qkiK9c25rh8F6oE2gkpZwew4OgrBfUtv6wop4avqM30="
+        }
+      ]
+    },
+    {
+      "Route": "img/revueltofinal.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltofinal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "425490"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qkiK9c25rh8F6oE2gkpZwew4OgrBfUtv6wop4avqM30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qkiK9c25rh8F6oE2gkpZwew4OgrBfUtv6wop4avqM30="
+        }
+      ]
+    },
+    {
+      "Route": "img/revueltoinicial.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltoinicial.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZmVbVQj1yjaqDTYbMqhRmFU+UEqK0zcwDjXkBXAc48w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZmVbVQj1yjaqDTYbMqhRmFU+UEqK0zcwDjXkBXAc48w="
+        }
+      ]
+    },
+    {
+      "Route": "img/revueltoinicial.qsxuko26jm.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltoinicial.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZmVbVQj1yjaqDTYbMqhRmFU+UEqK0zcwDjXkBXAc48w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qsxuko26jm"
+        },
+        {
+          "Name": "label",
+          "Value": "img/revueltoinicial.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZmVbVQj1yjaqDTYbMqhRmFU+UEqK0zcwDjXkBXAc48w="
+        }
+      ]
+    },
+    {
+      "Route": "img/revueltovermelho.cfny92vkn3.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltovermelho.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GIyXuserS94pfm5eCYu45ydSjw0AImB5SbSGUm3AgpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cfny92vkn3"
+        },
+        {
+          "Name": "label",
+          "Value": "img/revueltovermelho.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GIyXuserS94pfm5eCYu45ydSjw0AImB5SbSGUm3AgpY="
+        }
+      ]
+    },
+    {
+      "Route": "img/revueltovermelho.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltovermelho.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GIyXuserS94pfm5eCYu45ydSjw0AImB5SbSGUm3AgpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GIyXuserS94pfm5eCYu45ydSjw0AImB5SbSGUm3AgpY="
         }
       ]
     },
@@ -5402,7 +7651,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5447,7 +7696,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5484,7 +7733,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5529,7 +7778,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5540,6 +7789,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-yPgyKjkERlU9azL83exIt4QNhLf4kZWaKS5SZ6oHjFw="
+        }
+      ]
+    },
+    {
+      "Route": "img/setaDireitaOpcao.elzokiear2.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\setaDireitaOpcao.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MkYGf8G8n7Y4+KkQQrht0+hZAXGkHarK5KtIOrRTkas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 14:53:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "elzokiear2"
+        },
+        {
+          "Name": "label",
+          "Value": "img/setaDireitaOpcao.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MkYGf8G8n7Y4+KkQQrht0+hZAXGkHarK5KtIOrRTkas="
+        }
+      ]
+    },
+    {
+      "Route": "img/setaDireitaOpcao.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\setaDireitaOpcao.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MkYGf8G8n7Y4+KkQQrht0+hZAXGkHarK5KtIOrRTkas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 14:53:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MkYGf8G8n7Y4+KkQQrht0+hZAXGkHarK5KtIOrRTkas="
+        }
+      ]
+    },
+    {
+      "Route": "img/setaEsquerdaOpcao.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\setaEsquerdaOpcao.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jcea0lqe5/zE38McMWylFL0lM1koGaxaXK20PYr3Ze0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 14:52:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jcea0lqe5/zE38McMWylFL0lM1koGaxaXK20PYr3Ze0="
+        }
+      ]
+    },
+    {
+      "Route": "img/setaEsquerdaOpcao.vb7bnam8sz.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\setaEsquerdaOpcao.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jcea0lqe5/zE38McMWylFL0lM1koGaxaXK20PYr3Ze0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 14:52:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vb7bnam8sz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/setaEsquerdaOpcao.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jcea0lqe5/zE38McMWylFL0lM1koGaxaXK20PYr3Ze0="
         }
       ]
     },
@@ -5566,7 +7979,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5611,7 +8024,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Nov 2025 13:46:41 GMT"
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5622,6 +8035,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-gRdb4WpGgxB0fGvWk39y124ugOancRNeCrLMyIdrbsw="
+        }
+      ]
+    },
+    {
+      "Route": "img/temerario.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\temerario.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "614516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WWZ0Tr2X8St/kXLsAQQHW3PrRYJtYC3kgVovwCoIB+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 13:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WWZ0Tr2X8St/kXLsAQQHW3PrRYJtYC3kgVovwCoIB+U="
+        }
+      ]
+    },
+    {
+      "Route": "img/temerario.tviv1lat1k.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\temerario.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "614516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WWZ0Tr2X8St/kXLsAQQHW3PrRYJtYC3kgVovwCoIB+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 13:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tviv1lat1k"
+        },
+        {
+          "Name": "label",
+          "Value": "img/temerario.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WWZ0Tr2X8St/kXLsAQQHW3PrRYJtYC3kgVovwCoIB+U="
+        }
+      ]
+    },
+    {
+      "Route": "img/tetoicon.aroauiihbq.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\tetoicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kp5jJGp6sSSpAR7z372FlwsX5mYzjNJAk7zYj0GmMNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aroauiihbq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/tetoicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kp5jJGp6sSSpAR7z372FlwsX5mYzjNJAk7zYj0GmMNc="
+        }
+      ]
+    },
+    {
+      "Route": "img/tetoicon.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\tetoicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kp5jJGp6sSSpAR7z372FlwsX5mYzjNJAk7zYj0GmMNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kp5jJGp6sSSpAR7z372FlwsX5mYzjNJAk7zYj0GmMNc="
+        }
+      ]
+    },
+    {
+      "Route": "img/urus.j2ycsy49c5.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\urus.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exsNbEL4+PdkClFJ2WHIFOTwFEXOtu3S3j/K9CgKERo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2ycsy49c5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/urus.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-exsNbEL4+PdkClFJ2WHIFOTwFEXOtu3S3j/K9CgKERo="
+        }
+      ]
+    },
+    {
+      "Route": "img/urus.png",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\urus.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exsNbEL4+PdkClFJ2WHIFOTwFEXOtu3S3j/K9CgKERo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-exsNbEL4+PdkClFJ2WHIFOTwFEXOtu3S3j/K9CgKERo="
+        }
+      ]
+    },
+    {
+      "Route": "img/videoInicio.mp4",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\videoInicio.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8071783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oRRUMSuHZPylhjazOhdi5HKAMEgEa1Pw2AGDP1m+ER8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oRRUMSuHZPylhjazOhdi5HKAMEgEa1Pw2AGDP1m+ER8="
+        }
+      ]
+    },
+    {
+      "Route": "img/videoInicio.r9cd8dlnz5.mp4",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\videoInicio.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8071783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oRRUMSuHZPylhjazOhdi5HKAMEgEa1Pw2AGDP1m+ER8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r9cd8dlnz5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/videoInicio.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oRRUMSuHZPylhjazOhdi5HKAMEgEa1Pw2AGDP1m+ER8="
         }
       ]
     },
@@ -5704,6 +8445,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-vd7dOkUyYSiR5b9BpKri5DsLWEceND5al0LFkCt5uC8="
+        }
+      ]
+    },
+    {
+      "Route": "js/cadastro.8gzznopz99.js",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yDpBSf7sVpzOk5Mo1mTt0C+dpe5Dd9wlOyT/fgfHw4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8gzznopz99"
+        },
+        {
+          "Name": "label",
+          "Value": "js/cadastro.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yDpBSf7sVpzOk5Mo1mTt0C+dpe5Dd9wlOyT/fgfHw4c="
+        }
+      ]
+    },
+    {
+      "Route": "js/cadastro.js",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yDpBSf7sVpzOk5Mo1mTt0C+dpe5Dd9wlOyT/fgfHw4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 06:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yDpBSf7sVpzOk5Mo1mTt0C+dpe5Dd9wlOyT/fgfHw4c="
+        }
+      ]
+    },
+    {
+      "Route": "js/compra.js",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\compra.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XqiqRi0ZLsms7FBjo0cI4JQZS3uJZf+KgG0FyuYKdw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 07:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XqiqRi0ZLsms7FBjo0cI4JQZS3uJZf+KgG0FyuYKdw0="
+        }
+      ]
+    },
+    {
+      "Route": "js/compra.uhqanjxojr.js",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\compra.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XqiqRi0ZLsms7FBjo0cI4JQZS3uJZf+KgG0FyuYKdw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 07:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uhqanjxojr"
+        },
+        {
+          "Name": "label",
+          "Value": "js/compra.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XqiqRi0ZLsms7FBjo0cI4JQZS3uJZf+KgG0FyuYKdw0="
+        }
+      ]
+    },
+    {
+      "Route": "js/personalizacao.js",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qL2XlAoBuibs1PQ4swSJkjiWe1FotwO1nwvx8x+/q6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 07:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qL2XlAoBuibs1PQ4swSJkjiWe1FotwO1nwvx8x+/q6Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/personalizacao.k12wg0y9rj.js",
+      "AssetFile": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qL2XlAoBuibs1PQ4swSJkjiWe1FotwO1nwvx8x+/q6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 07:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k12wg0y9rj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/personalizacao.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qL2XlAoBuibs1PQ4swSJkjiWe1FotwO1nwvx8x+/q6Y="
         }
       ]
     },

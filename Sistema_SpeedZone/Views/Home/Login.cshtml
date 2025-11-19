@@ -2,40 +2,34 @@
 @{
     ViewData["Title"] = "Login";
 }
-<main role="main">
-    <br />
-    <br />
-    <section class="container">
-        <aside class="col-sm-4">
-            <h3 class="subtitle-doc">
-                Login
-            </h3>
-            <div id="code_login_1">
-                <div class="card">
-                    <article class="card-body">
-                        @if (ViewData["MSG_E"] != null)
-                        {
-                            <p class="alert alert-danger">@Html.Raw(ViewData["MSG_E"])</p>
-                        }
-                        <a asp-action="Cadastrar" asp-controller="Cliente" class="float-right btn btn-outline-primary">Cadastre-se</a>
-                        <h4 class="card-title mb-4 mt-1">Entrar</h4>
-                        <form method="post">
-                            <div class="form-group">
-                                <label>E-mail</label>
-                                <input asp-for="Email" class="form-control" placeholder="Email" type="email">
-                            </div>
-                            <div class="form-group">
-                                <a class="float-right" href="#">Esqueceu a senha</a>
-                                <label>Senha</label>
-                                <input asp-for="Senha" class="form-control" placeholder="******" type="password">
-                            </div>
-                            <div class="form-group">
-                                <button type="submit" class="btn btn-primary btn-block"> Acessar </button>
-                            </div>
-                        </form>
-                    </article>
-                </div>
-            </div>
-        </aside>
-    </section>
-</main>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Speed Zone</title>
+    <link rel="stylesheet" href="/css/login.css" />
+</head>
+<body class="login-page">
+    <div class="login-shell">
+        @if (ViewData["MSG_E"] != null)
+        {
+            <p class="alert alert-danger">@Html.Raw(ViewData["MSG_E"])</p>
+        }
+        <a asp-controller="Home" asp-action="Index"><img class="login-logo" src="/img/logo.png" alt="Speed Zone" /></a>
+        <h1 class="login-title">BEM-VINDO DE VOLTA</h1>
+        <form class="login-form">
+            <label class="login-label" for="email">EMAIL</label>
+            <input class="login-input" type="email" id="email" name="email" asp-for="Email" placeholder="Digite seu email" />
+
+            <label class="login-label" for="senha">SENHA</label>
+            <input class="login-input" type="password" id="senha" name="senha" asp-for="Senha" placeholder="Digite sua senha" />
+
+            <a class="login-link" asp-controller="Home" asp-action="Cadastro">AINDA NÃO TEM UMA CONTA? CLIQUE AQUI</a>
+
+            <a asp-controller="Home" asp-action="Index" class="login-button" type="submit">CONECTAR</a>
+        </form>
+        <p class="login-tagline">Se puder ser comparado, não é nosso</p>
+    </div>
+</body>
+</html>

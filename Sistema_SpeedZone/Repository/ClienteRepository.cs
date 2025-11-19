@@ -21,13 +21,14 @@ namespace Sistema_SpeedZone.Repository
             {
                 conexao.Open();
 
-                MySqlCommand cmd = new MySqlCommand("insert into tbUsuario(Nome, Nascimento, Sexo, CPF, Telefone, Email, Senha) " +
-                    " values (@Nome, @Nascimento, @Sexo, @CPF, @Telefone, @Email, @Senha)", conexao); // @: PARAMETRO
+                MySqlCommand cmd = new MySqlCommand("insert into tbUsuario(nome, cpf, datanasc, sexo, telefone, email, senha, numend, cep, compend, rg)" +
+                    " values (@Nome, @Nascimento, @Sexo, @CPF, @Telefone, @Email, @Senha, @RG)", conexao); // @: PARAMETRO
 
                 cmd.Parameters.Add("@Nome", MySqlDbType.VarChar).Value = usuario.Nome;
                 cmd.Parameters.Add("@Nascimento", MySqlDbType.DateTime).Value = usuario.Nascimento.ToString("yyyy/MM/dd");
                 cmd.Parameters.Add("@Sexo", MySqlDbType.VarChar).Value = usuario.Sexo;
                 cmd.Parameters.Add("@CPF", MySqlDbType.VarChar).Value = usuario.CPF;
+                cmd.Parameters.Add("@RG", MySqlDbType.VarChar).Value = usuario.RG;
                 cmd.Parameters.Add("@Telefone", MySqlDbType.VarChar).Value = usuario.Telefone;
                 cmd.Parameters.Add("@Email", MySqlDbType.VarChar).Value = usuario.Email;
                 cmd.Parameters.Add("@Senha", MySqlDbType.VarChar).Value = usuario.Senha;
@@ -63,6 +64,7 @@ namespace Sistema_SpeedZone.Repository
 
                     usuario.Sexo = Convert.ToString(dr["Sexo"]);
                     usuario.CPF = Convert.ToString(dr["CPF"]);
+                    usuario.RG = Convert.ToString(dr["RG"]);
                     usuario.Telefone = Convert.ToString(dr["Telefone"]);
 
                     usuario.Numero = Convert.ToInt32(dr["NumEnd"]);

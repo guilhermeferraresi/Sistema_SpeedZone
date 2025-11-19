@@ -32,6 +32,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCcmFuZHMzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/Cadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/Cars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/Cartao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0YW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/Compra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/Endereco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbmRlcmVjby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,16 +60,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/PainelCliente.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWluZWxDbGllbnRlLmNzaHRtbA==
+[C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/Personalizacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJzb25hbGl6YWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/Resumo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Home/segundaTela.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZWd1bmRhVGVsYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Personalizacao/Pintura.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxpemFjYW9cUGludHVyYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/55119/OneDrive/Área de Trabalho/Sistema_SpeedZone/Sistema_SpeedZone/Views/Shared/Error.cshtml]

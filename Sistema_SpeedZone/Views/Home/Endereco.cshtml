@@ -1,0 +1,44 @@
+﻿@model Usuario
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Speed Zone</title>
+    <link rel="stylesheet" href="/css/endereco.css" />
+</head>
+<body class="endereco-page">
+
+    <form asp-action="Endereco" asp-controller="Home" method="post" class="endereco-shell">
+
+        <div class="endereco-form">
+            <p class="endereco-legenda">INFORMAÇÕES DE ENDEREÇO</p>
+
+            <label class="endereco-label">CEP</label>
+            <input class="endereco-input" asp-for="CEP" placeholder="Digite seu CEP" />
+
+            <label class="endereco-label">RUA</label>
+            <input class="endereco-input" placeholder="Digite sua rua" />
+
+            <label class="endereco-label">NÚMERO</label>
+            <input class="endereco-input" asp-for="Numero" placeholder="Número" />
+
+            <label class="endereco-label">COMPLEMENTO</label>
+            <input class="endereco-input" asp-for="Complemento" placeholder="Apartamento, bloco, etc." />
+
+            <div class="endereco-actions">
+                <a asp-controller="Home" asp-action="Cadastro" class="endereco-button">VOLTAR</a>
+                <button type="submit" class="endereco-button" asp-controller="Home" asp-action="Registro">CONTINUAR</button>
+            </div>
+        </div>
+
+        <div class="endereco-brand">
+            <img src="/img/logo.png" alt="Speed Zone" />
+        </div>
+
+    </form>
+
+    <p class="endereco-tagline">Se puder ser comparado, não é nosso</p>
+</body>
+</html>
