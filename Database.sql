@@ -4,20 +4,20 @@ use dbTCC;
 
 create table tbUsuario(
 	IdUsuario int primary key auto_increment,
-    Nome varchar(50) unique not null,
-    CPF bigint unique not null,
+    Nome varchar(200) not null,
+    CPF varchar(15) unique not null,
     DataNasc date not null,
     -- Sexo char(1) not null,
     Telefone varchar(20) not null,
     Email varchar (50) not null,
-    Senha varchar(100) not null,
+    Senha varchar(20) not null,
     NumEnd int not null,
     Cep varchar(15) not null,
     CompEnd varchar(30) not null,
     rg varchar(15) not null
 );
 
-insert into tbUsuario(nome, cpf, datanasc, telefone, email, senha, numend, cep, compend, rg) values("Guilherme Ferraresi", "50887741843", "2008-01-11", "11994944785", "gui.ferraresi2008@gmail.com", "12345678", 1600, "06026090", "Apto. 52E", "577236945");
+-- insert into tbUsuario(nome, cpf, datanasc, telefone, email, senha, numend, cep, compend, rg) values("Guilherme Ferraresi", "50887741843", "2008-01-11", "11994944785", "gui.ferraresi2008@gmail.com", "12345678", 1600, "06026090", "Apto. 52E", "577236945");
 select * from tbusuario;
 
 create table tbFunc(
@@ -330,3 +330,15 @@ insert into tbModelo(marca, nome, ano, categoriacarro, img, hp, torque, motor, D
 ("Lamborghini", "Temerario", 2025, "USV", "/img/urus", "920cv", "74,4", "V8", "Pouco antes de inaugurar uma nova era em sua linha de veículos eletrificados, a Lamborghini apresentou o Temerario, o sucessor direto do Huracán e o mais recente superesportivo equipado com motorização híbrida V8.");
 
 select * from tbpeca;
+
+Delimiter $$
+create procedure cadastrarUsuario(vNome varchar(200), vCPF varchar(15), vNasc date, vTelefone varchar(20), vEmail varchar(50), vSenha varchar(20), vConfSenha varchar(20), vNumEnd int, vCEP varchar(15), vComp varchar(30), vRG varchar(15))
+begin
+	if vConfSenha = vSenha then
+		insert into tbUsuario(nome, cpf, datanasc, telefone, email, senha, numend, cep, compend, rg) values(vNome, vCPF, vNasc, vTelefone, vEmail, vSenha, vNumEnd, vCEP, vComp, vRG);
+    ELSE
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'As senhas não coincidem.';
+    end if;
+end
+$$

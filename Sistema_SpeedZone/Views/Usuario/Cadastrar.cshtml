@@ -11,7 +11,7 @@
 <body class="cadastro-page">
     <div class="cadastro-shell">
         <div class="cadastro-form">
-            <form asp-action="Cadastro" method="post">
+            <form asp-action="Cadastrar" method="post">
 
                 <div id="parteFormUm" class="visivel">
                     <p class="cadastro-legenda">INFORMAÇÕES DO CLIENTE</p>
@@ -38,9 +38,6 @@
                     <label>CEP</label>
                     <input asp-for="CEP" class="cadastro-input" type="text" required />
 
-                    <label>RUA</label>
-                    <input class="cadastro-input" type="text" required />
-
                     <label>NÚMERO</label>
                     <input asp-for="Numero" class="cadastro-input" type="text" required />
 
@@ -58,9 +55,9 @@
                     <input asp-for="Senha" class="cadastro-input" type="password" required />
 
                     <label>CONFIRMAR SENHA</label>
-                    <input class="cadastro-input" type="password" name="ConfirmaSenha" required />
-
-                    <button class="cadastro-button" type="submit" onclick="alert(" Dados cadastrados!")>FINALIZAR</button>
+                    <input asp-for="ConfSenha" class="cadastro-input" type="password" name="ConfirmaSenha" />
+                    
+                    <button class="cadastro-button" type="submit">FINALIZAR</button>
                 </div>
             </form>
 

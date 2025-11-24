@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\usuario\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\usuario\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\libraries\\login\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\libraries\\login\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\usuario\\painelusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\usuario\\painelusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\pagamento\\cartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\pagamento\\cartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\pedido\\compra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\pedido\\compra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -43,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\js\\compra.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\pagamento\\cartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\pagamento\\cartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,30 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\personalizacao\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\personalizacao\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\usuario\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\usuario\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\libraries\\login\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\libraries\\login\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\compra.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -158,11 +162,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
+              "Title": "Brands2.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:49:45.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Brands.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:47:54.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cartao.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:42:56.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Usuario.cs",
+              "RelativeToolTip": "Sistema_SpeedZone\\Models\\Usuario.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:58:16.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Usuario\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Cadastrar.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Usuario\\Cadastrar.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T17:00:27.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:16:26.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Brands3.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:50:44.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Compra.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:59:25.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pix.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T14:50:02.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Pix.css",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Pix.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Pix.css",
@@ -176,84 +293,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Pix.cshtml",
-              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
-              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
+              "Title": "PainelUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\PainelUsuario.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Usuario\\PainelUsuario.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\PainelUsuario.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Usuario\\PainelUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T14:50:02.524Z",
+              "WhenOpened": "2025-11-24T19:53:06.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Compra.cshtml",
-              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
-              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T13:59:25.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Brands3.cshtml",
-              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
-              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T13:50:44.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Brands2.cshtml",
-              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
-              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T13:49:45.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Brands.cshtml",
-              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
-              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T13:47:54.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Cartao.cshtml",
-              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
-              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T13:42:56.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "PagamentoController.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PagamentoController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\PagamentoController.cs",
@@ -261,12 +313,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\PagamentoController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAxwAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:39:34.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T13:39:34.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Resumo.cshtml",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
@@ -274,12 +325,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAAFMAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T15:00:10.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T15:00:10.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\PedidoController.cs",
@@ -287,24 +337,24 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\PedidoController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T14:50:43.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T14:50:43.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 3,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAwC4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwEAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T14:42:07.299Z"
+              "WhenOpened": "2025-11-19T14:42:07.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\HomeController.cs",
@@ -312,12 +362,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAA1wCAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T03:30:38.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T03:30:38.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Compra.css",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
@@ -329,19 +378,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
               "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T14:45:30.466Z"
+              "WhenOpened": "2025-11-19T14:45:30.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
@@ -349,12 +399,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAOUAAAAAAAAAAAAAAOYAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T04:03:00.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T04:03:00.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "cadastro.js",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
@@ -366,45 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
-              "RelativeToolTip": "Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwCAAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T04:16:26.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Usuario.cs",
-              "RelativeToolTip": "Sistema_SpeedZone\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T02:58:16.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Cadastro.cshtml",
-              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Cadastro.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Usuario\\Cadastro.cshtml",
-              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Cadastro.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Usuario\\Cadastro.cshtml",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAwFEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T15:02:40.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Personalizacao.cshtml",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Personalizacao.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Personalizacao.cshtml",
@@ -412,12 +423,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Personalizacao.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAACcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T15:01:10.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T15:01:10.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 4,
               "Title": "LoginUsuario.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
@@ -425,11 +435,12 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T04:21:15.139Z"
+              "WhenOpened": "2025-11-19T04:21:15.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "PersonalizacaoController.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
@@ -437,12 +448,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T13:48:57.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T13:48:57.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Cartao.css",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
@@ -454,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Resumo.css",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
@@ -466,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "compra.js",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\compra.js",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\js\\compra.js",
@@ -474,12 +484,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\js\\compra.js",
               "ViewState": "AgIAAAkAAAAAAAAAAAAQwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-19T07:08:57.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T07:08:57.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "personalizacao.js",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
@@ -487,12 +496,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
               "ViewState": "AgIAADkAAAAAAAAAAAAQwEcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-19T04:06:26.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T04:06:26.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "endereco.css",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
@@ -504,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "cadastro.css",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
@@ -516,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IModeloRepository.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\Contract\\IModeloRepository.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Repository\\Contract\\IModeloRepository.cs",
@@ -528,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Program.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Program.cs",
@@ -540,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ModeloRepository.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ModeloRepository.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Repository\\ModeloRepository.cs",
@@ -552,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Pintura.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Pintura.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Models\\Pintura.cs",
@@ -564,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\site.css",
@@ -576,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Personalizacao.css",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
@@ -584,12 +592,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
               "ViewState": "AgIAANEAAAAAAAAAAAAYwN8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-18T10:46:48.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T10:46:48.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Cars.css",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
@@ -601,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Cars.cshtml",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Cars.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Home\\Cars.cshtml",
@@ -609,12 +616,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Home\\Cars.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T10:40:15.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T10:40:15.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Modelo.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Modelo.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Models\\Modelo.cs",

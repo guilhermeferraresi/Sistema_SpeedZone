@@ -28,7 +28,7 @@ namespace Sistema_SpeedZone.Controllers
             if (usuarioDB.Email != null && usuarioDB.Senha != null)
             {
                 _loginUsuario.Login(usuarioDB);
-                return new RedirectResult(Url.Action(nameof(Index)));
+                return new RedirectResult(Url.Action(nameof(PainelUsuario)));
             }
             else
             {
@@ -38,20 +38,35 @@ namespace Sistema_SpeedZone.Controllers
             }
         }
 
-        public IActionResult Cadastro()
+        public IActionResult PainelUsuario()
+        {
+            ViewBag.Nome = _loginUsuario.GetUsuario().Nome;
+            ViewBag.CPF = _loginUsuario.GetUsuario().CPF;
+            return View();
+        }
+
+        public IActionResult Cadastrar()
         {
             return View();
         }
         [HttpPost]
-        public IActionResult Cadastro(Usuario usuario)
+        public IActionResult Cadastrar(Usuario usuario)
         {
             if (ModelState.IsValid)
             {
-                _clienteRepository.Cadastrar(usuario);
-
-                return RedirectToAction("Login");
+                try
+                {
+                    _clienteRepository.Cadastrar(usuario);
+                    return RedirectToAction("Login");
+                }
+                catch (Exception ex)
+                {
+                    ViewData["MSG_E"] = ex.Message; // "As senhas não coincidem."
+                }
             }
             return View(usuario);
         }
+
+        
     }
 }
