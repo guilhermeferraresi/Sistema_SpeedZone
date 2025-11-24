@@ -1,6 +1,4 @@
-﻿@model Sistema_SpeedZone.Models.Usuario;
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8" />
@@ -15,7 +13,7 @@
 
     <main class="compra-grid">
         <section class="compra-info">
-            <h1 class="compra-saudacao">OLÁ, @ViewBag.Nome</h1>
+            <h1 class="compra-saudacao">OLÁ, USUÁRIO</h1>
             <h2 class="compra-projeto">ESSE É O PROJETO FINALIZADO</h2>
             <span class="compra-id">ID #917623</span>
         </section>
@@ -26,16 +24,16 @@
         </section>
 
         <section class="compra-metodos">
-            <button class="compra-pill compra-pill--ativo" type="button">CARTÃO DE CRÉDITO</button>
+            <button class="compra-pill compra-pill--ativo" type="button" data-target="cartao.html">CARTÃO DE CRÉDITO</button>
             <button class="compra-pill" type="button">CARTÃO DE DÉBITO</button>
-            <button class="compra-pill" type="button">PIX</button>
+            <button class="compra-pill" type="button" asp-controller="Pagamento" asp-action="Pix">PIX</button>
             <div class="compra-total">
                 <span class="compra-total__label">TOTAL</span>
                 <span class="compra-total__valor">R$ 8.812.187</span>
             </div>
             <div class="compra-actions">
-                <a href="personalizacao.html" class="compra-btn">VOLTAR</a>
-                <a asp-controller="Home" asp-action="Cartao" class="compra-btn compra-btn--primario">FINALIZAR</a>
+                <a asp-controller="Pedido" asp-action="Resumo" class="compra-btn">VOLTAR</a>
+                <a asp-controller="Home" asp-action="Index" class="compra-btn compra-btn--primario" data-finalizar>FINALIZAR</a>
             </div>
         </section>
     </main>

@@ -30,37 +30,12 @@ namespace Sistema_SpeedZone.Controllers
             return View();
         }
 
-        public IActionResult segundaTela()
-        {
-            return View();
-        }
-
         public IActionResult Cars()
         {
             return View();
         }
 
-        public IActionResult Brands()
-        {
-            return View();
-        }
-
-        public IActionResult Brands2()
-        {
-            return View();
-        }
-
-        public IActionResult Brands3()
-        {
-            return View();
-        }
-
-       
-        public IActionResult Cartao()
-        {
-            return View();
-        }
-
+        
         public IActionResult Privacy()
         {
             return View();

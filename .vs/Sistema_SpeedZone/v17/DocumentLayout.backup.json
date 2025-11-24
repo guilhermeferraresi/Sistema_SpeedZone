@@ -1,141 +1,153 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\",
+  "WorkspaceRootPath": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\pedido\\compra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\pedido\\compra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\usuario\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\usuario\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\home\\cartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\home\\cartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\personalizacao\\personalizacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\personalizacao\\personalizacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\controllers\\personalizacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\personalizacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\pedido\\resumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\pedido\\resumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\libraries\\login\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\libraries\\login\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\compra.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\compra.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\home\\compra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\home\\compra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\js\\compra.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\js\\compra.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\js\\personalizacao.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\js\\personalizacao.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\resumo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\resumo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\personalizacao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\personalizacao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\personalizacao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\cartao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\cartao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\pedido\\resumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\pedido\\resumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\cadastro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\cadastro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\controllers\\personalizacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\personalizacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\js\\cadastro.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\js\\cadastro.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\pix.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\pix.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\home\\brands2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\home\\brands2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\pagamento\\pix.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\pagamento\\pix.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\home\\cars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\personalizacao\\personalizacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\personalizacao\\personalizacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\js\\personalizacao.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\js\\personalizacao.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\js\\compra.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\js\\compra.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\pagamento\\cartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\pagamento\\cartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\home\\cars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\home\\cars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\home\\brands3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\home\\brands3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\views\\home\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\home\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\personalizacao\\brands3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\personalizacao\\brands3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\endereco.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\personalizacao\\brands2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\personalizacao\\brands2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\personalizacao\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\personalizacao\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\usuario\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\usuario\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\libraries\\login\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\libraries\\login\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\compra.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\compra.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\resumo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\resumo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\cartao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\cartao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\cadastro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\cadastro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\js\\cadastro.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\js\\cadastro.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\endereco.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\endereco.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\models\\pintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\models\\pintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\models\\pintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\repository\\contract\\imodelorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\repository\\contract\\imodelorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\repository\\contract\\imodelorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\repository\\modelorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\repository\\modelorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\repository\\modelorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\models\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\models\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\models\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\3ds\\desktop\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\cars.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\wwwroot\\css\\cars.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\wwwroot\\css\\cars.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -146,119 +158,207 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "Pix.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Pix.css",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Pix.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Pix.css",
+              "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\css\\Pix.css",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAYwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-24T14:57:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pix.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pagamento\\Pix.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T14:50:02.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compra.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:59:25.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Brands3.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:50:44.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Brands2.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:49:45.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Brands.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Brands.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:47:54.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cartao.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
+              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pagamento\\Cartao.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:42:56.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PagamentoController.cs",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\PagamentoController.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PagamentoController.cs",
+              "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\PagamentoController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:39:34.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Resumo.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAFoAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFMAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-19T15:00:10.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PedidoController.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\PedidoController.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PedidoController.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\PedidoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T14:50:43.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAwC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T14:42:07.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T14:42:07.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwDkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T03:30:38.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cartao.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Cartao.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Home\\Cartao.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Cartao.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Home\\Cartao.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T06:47:56.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "Compra.css",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-19T06:55:16.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T06:55:16.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T14:45:30.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T14:45:30.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAOYAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-18T04:03:00.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "cadastro.js",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
               "ViewState": "AgIAACcAAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -266,39 +366,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 19,
               "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCAAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T04:16:26.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 20,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Usuario.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T02:58:16.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T02:58:16.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "Cadastro.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Cadastro.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Cadastro.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Usuario\\Cadastro.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Cadastro.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Cadastro.cshtml",
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Usuario\\Cadastro.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAwFEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwFEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-19T15:02:40.771Z",
               "EditorCaption": ""
@@ -307,84 +406,47 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Personalizacao.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Personalizacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Personalizacao.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Personalizacao\\Personalizacao.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Personalizacao.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Personalizacao\\Personalizacao.cshtml",
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Personalizacao\\Personalizacao.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwDwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-19T15:01:10.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "LoginUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T04:21:15.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T04:21:15.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "PersonalizacaoController.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T13:48:57.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Brands2.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Brands2.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Home\\Brands2.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Brands2.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Home\\Brands2.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAACDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T04:09:44.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Brands3.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Brands3.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Home\\Brands3.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Brands3.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Home\\Brands3.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAACDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T04:09:55.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Compra.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Compra.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Home\\Compra.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Compra.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Home\\Compra.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T06:46:19.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "Cartao.css",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
               "ViewState": "AgIAAIAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -392,11 +454,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "Resumo.css",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -404,47 +466,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "compra.js",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\compra.js",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\compra.js",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\js\\compra.js",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\compra.js",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\compra.js",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\js\\compra.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-19T07:08:57.712Z"
+              "WhenOpened": "2025-11-19T07:08:57.712Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Brands.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Brands.cshtml",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Home\\Brands.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Brands.cshtml",
-              "RelativeToolTip": "Sistema_SpeedZone\\Views\\Home\\Brands.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAACHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T04:09:35.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "personalizacao.js",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwDkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwEcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-19T04:06:26.144Z"
+              "WhenOpened": "2025-11-19T04:06:26.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "endereco.css",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -452,11 +504,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "cadastro.css",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
               "ViewState": "AgIAAHcAAAAAAAAAAAAmwIAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -464,11 +516,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "IModeloRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\Contract\\IModeloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\Contract\\IModeloRepository.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Repository\\Contract\\IModeloRepository.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\Contract\\IModeloRepository.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\Contract\\IModeloRepository.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Repository\\Contract\\IModeloRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -476,11 +528,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Program.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Program.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Program.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Program.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -488,11 +540,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "ModeloRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ModeloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ModeloRepository.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Repository\\ModeloRepository.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ModeloRepository.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ModeloRepository.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Repository\\ModeloRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -500,11 +552,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Pintura.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Pintura.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Pintura.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Models\\Pintura.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Pintura.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Pintura.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Models\\Pintura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -512,11 +564,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAFkAAAAAAAAAAAAowHoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -524,23 +576,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "Personalizacao.css",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANEAAAAAAAAAAAAYwN8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-18T10:46:48.511Z"
+              "WhenOpened": "2025-11-18T10:46:48.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Cars.css",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
               "RelativeToolTip": "Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
               "ViewState": "AgIAAFQBAAAAAAAAAAAowFwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -548,23 +601,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 13,
               "Title": "Cars.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Cars.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Cars.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Home\\Cars.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Cars.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Cars.cshtml",
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Home\\Cars.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAACDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T10:40:15.636Z"
+              "WhenOpened": "2025-11-18T10:40:15.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "Modelo.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Modelo.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Models\\Modelo.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Modelo.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Modelo.cs",
               "RelativeToolTip": "Sistema_SpeedZone\\Models\\Modelo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

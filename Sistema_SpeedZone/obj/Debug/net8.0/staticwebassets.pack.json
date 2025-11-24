@@ -1,0 +1,557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Sistema_SpeedZone.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Sistema_SpeedZone.lburxs390u.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cars.css",
+      "PackagePath": "staticwebassets\\css\\Cars.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Cartao.css",
+      "PackagePath": "staticwebassets\\css\\Cartao.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Compra.css",
+      "PackagePath": "staticwebassets\\css\\Compra.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Personalizacao.css",
+      "PackagePath": "staticwebassets\\css\\Personalizacao.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Pix.css",
+      "PackagePath": "staticwebassets\\css\\Pix.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\Resumo.css",
+      "PackagePath": "staticwebassets\\css\\Resumo.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\brands.css",
+      "PackagePath": "staticwebassets\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\cadastro.css",
+      "PackagePath": "staticwebassets\\css\\cadastro.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\endereco.css",
+      "PackagePath": "staticwebassets\\css\\endereco.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\segundaTela.css",
+      "PackagePath": "staticwebassets\\css\\segundaTela.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\css\\terceiraTela.css",
+      "PackagePath": "staticwebassets\\css\\terceiraTela.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\audi_logo.png",
+      "PackagePath": "staticwebassets\\img\\audi_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\bentley_logo.png",
+      "PackagePath": "staticwebassets\\img\\bentley_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\blue_bg.png",
+      "PackagePath": "staticwebassets\\img\\blue_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\blue_car.png",
+      "PackagePath": "staticwebassets\\img\\blue_car.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\bmw_logo.png",
+      "PackagePath": "staticwebassets\\img\\bmw_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\bodykitsicon.png",
+      "PackagePath": "staticwebassets\\img\\bodykitsicon.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\brands_bg.png",
+      "PackagePath": "staticwebassets\\img\\brands_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\bugattiChiron.mp4",
+      "PackagePath": "staticwebassets\\img\\bugattiChiron.mp4"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\bugatti_logo.png",
+      "PackagePath": "staticwebassets\\img\\bugatti_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\cartaopagamento.png",
+      "PackagePath": "staticwebassets\\img\\cartaopagamento.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\chevrolet_logo.png",
+      "PackagePath": "staticwebassets\\img\\chevrolet_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\citroen_logo.png",
+      "PackagePath": "staticwebassets\\img\\citroen_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\darkblue_bg.png",
+      "PackagePath": "staticwebassets\\img\\darkblue_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\darkblue_car.png",
+      "PackagePath": "staticwebassets\\img\\darkblue_car.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\destaque.png",
+      "PackagePath": "staticwebassets\\img\\destaque.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\ferrari_logo.png",
+      "PackagePath": "staticwebassets\\img\\ferrari_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\fiat_logo.png",
+      "PackagePath": "staticwebassets\\img\\fiat_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\ford_logo.png",
+      "PackagePath": "staticwebassets\\img\\ford_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\historialambo.png",
+      "PackagePath": "staticwebassets\\img\\historialambo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\honda_logo.png",
+      "PackagePath": "staticwebassets\\img\\honda_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\hyundai_logo.png",
+      "PackagePath": "staticwebassets\\img\\hyundai_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\jaguar_logo.png",
+      "PackagePath": "staticwebassets\\img\\jaguar_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\lambobull.png",
+      "PackagePath": "staticwebassets\\img\\lambobull.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\lamborghini_logo.png",
+      "PackagePath": "staticwebassets\\img\\lamborghini_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\landrover_logo.png",
+      "PackagePath": "staticwebassets\\img\\landrover_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\maserati_logo.png",
+      "PackagePath": "staticwebassets\\img\\maserati_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\mcLaren720S.mp4",
+      "PackagePath": "staticwebassets\\img\\mcLaren720S.mp4"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\mercedes_logo.png",
+      "PackagePath": "staticwebassets\\img\\mercedes_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\minicooper_logo.png",
+      "PackagePath": "staticwebassets\\img\\minicooper_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\nissan_logo.png",
+      "PackagePath": "staticwebassets\\img\\nissan_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\orange_bg.png",
+      "PackagePath": "staticwebassets\\img\\orange_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\orange_car.png",
+      "PackagePath": "staticwebassets\\img\\orange_car.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\pagani_logo.png",
+      "PackagePath": "staticwebassets\\img\\pagani_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\perfil.png",
+      "PackagePath": "staticwebassets\\img\\perfil.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\peugeot_logo.png",
+      "PackagePath": "staticwebassets\\img\\peugeot_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\pinturaicon.png",
+      "PackagePath": "staticwebassets\\img\\pinturaicon.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\pneusicon.png",
+      "PackagePath": "staticwebassets\\img\\pneusicon.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\porshe_logo.png",
+      "PackagePath": "staticwebassets\\img\\porshe_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\qrcode.png",
+      "PackagePath": "staticwebassets\\img\\qrcode.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\ram_logo.png",
+      "PackagePath": "staticwebassets\\img\\ram_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\renault_logo.png",
+      "PackagePath": "staticwebassets\\img\\renault_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revuelto.png",
+      "PackagePath": "staticwebassets\\img\\revuelto.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltocompra.png",
+      "PackagePath": "staticwebassets\\img\\revueltocompra.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltofinal.png",
+      "PackagePath": "staticwebassets\\img\\revueltofinal.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltoinicial.png",
+      "PackagePath": "staticwebassets\\img\\revueltoinicial.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltovermelho.png",
+      "PackagePath": "staticwebassets\\img\\revueltovermelho.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\rollsroyce_logo.png",
+      "PackagePath": "staticwebassets\\img\\rollsroyce_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\search_icon.png",
+      "PackagePath": "staticwebassets\\img\\search_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\setaDireitaOpcao.png",
+      "PackagePath": "staticwebassets\\img\\setaDireitaOpcao.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\setaEsquerdaOpcao.png",
+      "PackagePath": "staticwebassets\\img\\setaEsquerdaOpcao.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\sz_background.png",
+      "PackagePath": "staticwebassets\\img\\sz_background.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\temerario.png",
+      "PackagePath": "staticwebassets\\img\\temerario.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\tetoicon.png",
+      "PackagePath": "staticwebassets\\img\\tetoicon.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\urus.png",
+      "PackagePath": "staticwebassets\\img\\urus.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\videoInicio.mp4",
+      "PackagePath": "staticwebassets\\img\\videoInicio.mp4"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\brandsSlider.js",
+      "PackagePath": "staticwebassets\\js\\brandsSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\cadastro.js",
+      "PackagePath": "staticwebassets\\js\\cadastro.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\compra.js",
+      "PackagePath": "staticwebassets\\js\\compra.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\personalizacao.js",
+      "PackagePath": "staticwebassets\\js\\personalizacao.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Sistema_SpeedZone.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Sistema_SpeedZone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Sistema_SpeedZone.props",
+      "PackagePath": "build\\Sistema_SpeedZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Sistema_SpeedZone.props",
+      "PackagePath": "buildMultiTargeting\\Sistema_SpeedZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Sistema_SpeedZone.props",
+      "PackagePath": "buildTransitive\\Sistema_SpeedZone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
