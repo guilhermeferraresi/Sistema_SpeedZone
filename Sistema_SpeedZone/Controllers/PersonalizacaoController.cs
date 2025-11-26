@@ -1,11 +1,17 @@
 ﻿    using Microsoft.AspNetCore.Mvc;
 using Org.BouncyCastle.Asn1.Crmf;
-using Sistema_SpeedZone.Repository;
+using Sistema_SpeedZone.Repository.Contract;
 
 namespace Sistema_SpeedZone.Controllers
 {
     public class PersonalizacaoController : Controller
     {
+        private IModeloRepository _modeloRepository;
+        public PersonalizacaoController(IModeloRepository modeloRepository)
+        {
+            _modeloRepository = modeloRepository;
+                
+        }
         /*private readonly ModeloRepository _modeloRepository;
         public PersonalizacaoController(ModeloRepository modeloRepository)
         {
@@ -13,7 +19,7 @@ namespace Sistema_SpeedZone.Controllers
         }*/
         public IActionResult Personalizacao()
         {
-            return View();
+            return View(_modeloRepository.ObterTodasPinturas());
         }
 
         public IActionResult Brands()

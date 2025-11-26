@@ -17,19 +17,19 @@
             <p class="endereco-legenda">FORMA DE PAGAMENTO</p>
             <form asp-action="Cartao" method="post">
                 <label class="endereco-label" for="cep">NÚMERO DO CARTÃO</label>
-                <input asp-for="NumeroCartao" class="endereco-input" type="text" id="cep" name="cep" placeholder="Digite o número do seu cartão" required/>
+                <input asp-for="NumeroCartao" class="endereco-input" placeholder="Digite o número do seu cartão" required/>
 
                 <label class="endereco-label" for="rua">NOME NO CARTÃO</label>
-                <input asp-for="Nome" class="endereco-input" type="text" id="rua" name="rua" placeholder="Digite o nome no seu cartão" required />
+                <input asp-for="Nome" class="endereco-input" placeholder="Digite o nome no seu cartão" required />
 
                 <label class="endereco-label" for="rua">BANDEIRA</label>
-                <input asp-for="Bandeira" class="endereco-input" type="text" id="rua" name="rua" placeholder="Digite o nome no seu cartão" required />
+                <input asp-for="Bandeira" class="endereco-input"  placeholder="Digite o nome no seu cartão" required />
 
                 <label class="endereco-label" for="numero">VALIDADE</label>
-                <input asp-for="Validade" class="endereco-input" type="text" id="numero" name="numero" placeholder="Digite a validade do seu cartão" required />
+                <input asp-for="Validade" class="endereco-input" placeholder="Digite a validade do seu cartão" required />
 
                 <label class="endereco-label" for="complemento">CVV</label>
-                <input asp-for="CVV" class="endereco-input" type="text" id="complemento" name="complemento" placeholder="Digite o CVV do seu cartão" required />
+                <input asp-for="CVV" class="endereco-input"  placeholder="Digite o CVV do seu cartão" required />
 
                 <div class="endereco-actions">
                     <a asp-controller="Pedido" asp-action="Compra" class="endereco-button">VOLTAR</a>

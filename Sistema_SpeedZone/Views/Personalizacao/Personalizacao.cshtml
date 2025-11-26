@@ -1,4 +1,10 @@
-﻿<!DOCTYPE html>
+﻿@model IEnumerable<Sistema_SpeedZone.Models.Pintura>
+
+@{
+    ViewData["Title"] = "Personalizacao";
+}
+
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="utf-8" />
@@ -44,15 +50,10 @@
     <div class="custom-paint">
         <button class="custom-paint__arrow" type="button" aria-label="Anterior">‹</button>
         <div class="custom-paint__swatches">
-            <span class="custom-swatch" data-color="cinza-1" style="background: #A0A0A3;"></span>
-            <span class="custom-swatch" data-color="preto" style="background: #0C0C0B;"></span>
-            <span class="custom-swatch" data-color="verde" style="background: #578A20;"></span>
-            <span class="custom-swatch" data-color="dourado" style="background: #EBBD39;"></span>
-            <span class="custom-swatch custom-swatch--active" data-color="laranja" style="background: #c94b24;"></span>
-            <span class="custom-swatch" data-color="vermelho" style="background: #AF2025;"></span>
-            <span class="custom-swatch" data-color="azul-escuro" style="background: #00174C;"></span>
-            <span class="custom-swatch" data-color="azul" style="background: #3460B2;"></span>
-            <span class="custom-swatch" data-color="azul-acinzentado" style="background: #2f5167;"></span>
+            @foreach (var item in Model)
+            {
+                <span class="custom-swatch" data-color="cinza-1" style="background: #@Html.DisplayFor(modelItem => item.Codigo);"></span>
+            }
         </div>
         <button class="custom-paint__arrow" type="button" aria-label="Próximo">›</button>
     </div>

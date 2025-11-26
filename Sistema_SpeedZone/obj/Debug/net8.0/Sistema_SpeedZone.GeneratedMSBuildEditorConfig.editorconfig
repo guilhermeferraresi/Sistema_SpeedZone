@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sistema_SpeedZone
 build_property.RootNamespace = Sistema_SpeedZone
@@ -62,6 +70,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/3ds/Desktop/Sistema_SpeedZone/Sistema_SpeedZone/Views/Personalizacao/Personalizacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxpemFjYW9cUGVyc29uYWxpemFjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3ds/Desktop/Sistema_SpeedZone/Sistema_SpeedZone/Views/Personalizacao/Personalizacao_OLD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxpemFjYW9cUGVyc29uYWxpemFjYW9fT0xELmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/3ds/Desktop/Sistema_SpeedZone/Sistema_SpeedZone/Views/Shared/Error.cshtml]
