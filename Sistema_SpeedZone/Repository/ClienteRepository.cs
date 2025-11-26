@@ -23,7 +23,7 @@ namespace Sistema_SpeedZone.Repository
 
                 try
                 {
-                    MySqlCommand cmd = new MySqlCommand("call cadastrarUsuario(@Nome, @CPF, @Nascimento,  @Telefone, @Email, @Senha, @ConfSenha, @NumEnd, @CEP, @Compend, @RG)", conexao); // @: PARAMETRO
+                    MySqlCommand cmd = new MySqlCommand("insert into tbUsuario(nome, cpf, datanasc, telefone, email, senha, numend, cep, compend, rg) values(@Nome, @CPF, @Nascimento,  @Telefone, @Email, @Senha, @NumEnd, @CEP, @Compend, @RG)", conexao); // @: PARAMETRO
 
                     cmd.Parameters.Add("@Nome", MySqlDbType.VarChar).Value = usuario.Nome;
                     cmd.Parameters.Add("@Nascimento", MySqlDbType.DateTime).Value = usuario.Nascimento.ToString("yyyy/MM/dd");
@@ -33,7 +33,7 @@ namespace Sistema_SpeedZone.Repository
                     cmd.Parameters.Add("@Telefone", MySqlDbType.VarChar).Value = usuario.Telefone;
                     cmd.Parameters.Add("@Email", MySqlDbType.VarChar).Value = usuario.Email;
                     cmd.Parameters.Add("@Senha", MySqlDbType.VarChar).Value = usuario.Senha;
-                    cmd.Parameters.Add("@ConfSenha", MySqlDbType.VarChar).Value = usuario.ConfSenha;
+                    //cmd.Parameters.Add("@ConfSenha", MySqlDbType.VarChar).Value = usuario.ConfSenha;
                     cmd.Parameters.Add("@NumEnd", MySqlDbType.VarChar).Value = usuario.Numero;
                     cmd.Parameters.Add("@CEP", MySqlDbType.VarChar).Value = usuario.CEP;
                     cmd.Parameters.Add("@Compend", MySqlDbType.VarChar).Value = usuario.Complemento;

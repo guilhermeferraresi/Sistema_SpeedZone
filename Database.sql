@@ -51,12 +51,14 @@ create table tbPagamento(
 
 create table tbCartao(
 	IdCartao int primary key auto_increment,
-	IdPagamento int not null,
     NumeroCartao varchar(16) not null,
     Nome varchar(30) not null,
-    Validade varchar(5) not null,
+    Validade varchar(10) not null,
     Bandeira varchar(20) not null
 );
+
+-- insert into tbCartao(NumeroCartao, Nome, Validade, Bandeira) values("1234567812345678", "Guilherme Ferraresi", "10/32", "Master Cadrd");
+-- select * from tbCartao;
 
 create table tbPedido(
 	IdPedido int primary key auto_increment,
@@ -172,7 +174,6 @@ alter table tbPedido add constraint fk_idFuncAprovador foreign key(IdFuncAprovad
 alter table tbPedido add constraint fk_idPersonalizacaoPedido foreign key(idPersonalizacao) references tbPersonalizacao(idPersonalizacao);
 alter table tbPagamento add constraint fk_idpedido foreign key(idpedido) references tbPedido(idpedido);
 alter table tbPagamento add constraint fk_idFormaPagamento foreign key(idFormaPagamento) references tbFormaPagamento(idFormaPagamento);
-alter table tbCartao add constraint fk_idPagamentoCartao foreign key(idPagamento) references tbPagamento(idPagamento);
 alter table tbPersonalizacao add constraint fk_idPeca foreign key(IdPeca) references tbPeca(IdPeca);
 alter table tbPersonalizacao add constraint fk_idModeloPersonalizacao foreign key(IdModelo) references tbModelo(IdModelo);
 alter table tbPintura add constraint fk_idPecaPintura foreign key(IdPeca) references tbPeca(IdPeca);

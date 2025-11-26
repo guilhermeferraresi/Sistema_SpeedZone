@@ -18,7 +18,7 @@
         }
         <a asp-controller="Home" asp-action="Index"><img class="login-logo" src="/img/logo.png" alt="Speed Zone" /></a>
         <h1 class="login-title">BEM-VINDO DE VOLTA</h1>
-        <form class="login-form">
+        <form class="login-form" asp-controller="Usuario" asp-action="Login"  method="post">
             <label class="login-label" for="email">EMAIL</label>
             <input class="login-input" type="email" id="email" name="email" asp-for="Email" placeholder="Digite seu email" />
 
@@ -27,7 +27,7 @@
 
             <a class="login-link" asp-controller="Usuario" asp-action="Cadastrar">AINDA NÃO TEM UMA CONTA? CLIQUE AQUI</a>
 
-            <a asp-controller="Home" asp-action="Index" class="login-button" type="submit">CONECTAR</a>
+            <button class="login-button" type="submit">CONECTAR</button>
         </form>
         <p class="login-tagline">Se puder ser comparado, não é nosso</p>
     </div>

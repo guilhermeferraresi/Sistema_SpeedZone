@@ -12,8 +12,8 @@
     const container = document.querySelector(".custom-paint__swatches");
     const swatches = container ? Array.from(container.querySelectorAll(".custom-swatch")) : [];
     const bgLayer = document.querySelector(".personalizacao-bg");
-    const DEFAULT_BG = 'url("img/revueltoinicial.png")';
-    const RED_BG = 'url("img/revueltovermelho.png")';
+    const DEFAULT_BG = 'url("/img/revueltoinicial.png")';
+    const RED_BG = 'url("/img/revueltovermelho.png")';
     let queuedBg = null;
 
     if (bgLayer && !bgLayer.style.backgroundImage) {

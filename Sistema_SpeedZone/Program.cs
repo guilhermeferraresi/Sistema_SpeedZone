@@ -12,6 +12,7 @@ builder.Services.AddHttpContextAccessor();
 
 //Adicionando a interface como um serviço
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
+builder.Services.AddScoped<IPagamentoRepository, PagamentoRepository>();
 builder.Services.AddScoped<IFuncionarioRepository, FuncionarioRepository>();
 builder.Services.AddScoped<IModeloRepository, ModeloRepository>();
 

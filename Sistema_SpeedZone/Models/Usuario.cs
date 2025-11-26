@@ -43,11 +43,11 @@ namespace Sistema_SpeedZone.Models
         [StringLength(10, MinimumLength = 6, ErrorMessage = "A senha deve ter entre 6 e 10 caracteres")]
         public string Senha { get; set; }
 
-        [Display(Name = "Senha")]
+        /*[Display(Name = "Senha")]
         [DataType(DataType.Password)]
         [Required(ErrorMessage = "O campo senha é obrigatório")]
         [StringLength(10, MinimumLength = 6, ErrorMessage = "A senha deve ter entre 6 e 10 caracteres")]
-        public string ConfSenha { get; set; }
+        public string ConfSenha { get; set; }*/
 
         [Display(Name = "CEP")]
         [Required(ErrorMessage = "O CEP é obrigatório")]

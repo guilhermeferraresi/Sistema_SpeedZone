@@ -13,7 +13,7 @@
 
     <main class="compra-grid">
         <section class="compra-info">
-            <h1 class="compra-saudacao">OLÁ, USUÁRIO</h1>
+            <h1 class="compra-saudacao">OLÁ, @ViewBag.Nome</h1>
             <h2 class="compra-projeto">ESSE É O PROJETO FINALIZADO</h2>
             <span class="compra-id">ID #917623</span>
         </section>
@@ -24,9 +24,9 @@
         </section>
 
         <section class="compra-metodos">
-            <button class="compra-pill compra-pill--ativo" type="button" data-target="cartao.html">CARTÃO DE CRÉDITO</button>
+            <a asp-controller="Pagamento" asp-action="Cartao"><button class="compra-pill compra-pill--ativo" type="button">CARTÃO DE CRÉDITO</button></a>
             <button class="compra-pill" type="button">CARTÃO DE DÉBITO</button>
-            <button class="compra-pill" type="button" asp-controller="Pagamento" asp-action="Pix">PIX</button>
+            <a asp-controller="Pagamento" asp-action="Pix"><button class="compra-pill" type="button">PIX</button></a>
             <div class="compra-total">
                 <span class="compra-total__label">TOTAL</span>
                 <span class="compra-total__valor">R$ 8.812.187</span>

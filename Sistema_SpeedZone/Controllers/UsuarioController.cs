@@ -21,14 +21,15 @@ namespace Sistema_SpeedZone.Controllers
         }
 
         [HttpPost]
-        public IActionResult Login([FromForm] Usuario usuario)
+        public IActionResult Login(Usuario usuario)
         {
             Usuario usuarioDB = _clienteRepository.Login(usuario.Email, usuario.Senha);
 
             if (usuarioDB.Email != null && usuarioDB.Senha != null)
             {
                 _loginUsuario.Login(usuarioDB);
-                return new RedirectResult(Url.Action(nameof(PainelUsuario)));
+                //return new RedirectResult(Url.Action(nameof(Index)));
+                return RedirectToAction("Index", "Home");
             }
             else
             {
@@ -38,12 +39,12 @@ namespace Sistema_SpeedZone.Controllers
             }
         }
 
-        public IActionResult PainelUsuario()
-        {
-            ViewBag.Nome = _loginUsuario.GetUsuario().Nome;
-            ViewBag.CPF = _loginUsuario.GetUsuario().CPF;
-            return View();
-        }
+        //public IActionResult PainelUsuario()
+        //{
+        //    ViewBag.Nome = _loginUsuario.GetUsuario().Nome;
+        //    ViewBag.CPF = _loginUsuario.GetUsuario().CPF;
+        //    return View();
+        //}
 
         public IActionResult Cadastrar()
         {
