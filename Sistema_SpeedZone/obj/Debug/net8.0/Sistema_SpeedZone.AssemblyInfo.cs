@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema_SpeedZone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d827eb2e510e746bb6fcd81707be107e4137c007")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e33bd3f5fec4bfdfed9ae17043a167a5eaa56e81")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema_SpeedZone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema_SpeedZone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

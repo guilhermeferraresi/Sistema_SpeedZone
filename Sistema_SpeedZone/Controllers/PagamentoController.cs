@@ -15,24 +15,17 @@ namespace Sistema_SpeedZone.Controllers
             _pagamentoRepository = pagamentoRepository;
         }
 
-        public IActionResult CadastrarCartao()
+        public IActionResult Cartao()
         {
             return View();
         }
         [HttpPost]
-        public IActionResult CadastrarCartao(Cartao cartao)
+        public IActionResult Cartao(Cartao cartao)
         {
             if (ModelState.IsValid)
             {
-                try
-                {
-                    _pagamentoRepository.CadastrarCartao(cartao);
-                    return RedirectToAction("Login");
-                }
-                catch (Exception ex)
-                {
-                    ViewData["MSG_E"] = ex.Message; // "As senhas não coincidem."
-                }
+                _pagamentoRepository.InserirCartao(cartao);
+                return RedirectToAction("Resumo", "Pedido");
             }
             return View(cartao);
         }
