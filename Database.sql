@@ -51,6 +51,7 @@ create table tbPagamento(
 
 create table tbCartao(
 	IdCartao int primary key auto_increment,
+    IdUsuario int,
     NumeroCartao varchar(16) not null,
     Nome varchar(30) not null,
     Validade varchar(10) not null,
@@ -170,6 +171,7 @@ create table tbVidro(
 );
 
 alter table tbPedido add constraint fk_idUsuario foreign key(idUsuario) references tbUsuario(idUsuario);
+alter table tbCartao add constraint fk_idUsuarioCartao foreign key(idUsuario) references tbUsuario(idUsuario);
 alter table tbPedido add constraint fk_idFuncAprovador foreign key(IdFuncAprovador) references tbFunc(IdFunc);
 alter table tbPedido add constraint fk_idPersonalizacaoPedido foreign key(idPersonalizacao) references tbPersonalizacao(idPersonalizacao);
 alter table tbPagamento add constraint fk_idpedido foreign key(idpedido) references tbPedido(idpedido);
@@ -196,54 +198,37 @@ INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
 ('cor', 8900.00, '/img/cor/blue_eleos'),
 ('cor', 9000.00, '/img/cor/giallo_auge'),
 ('cor', 8200.00, '/img/cor/giallo_inti'),
-('cor', 8800.00, '/img/cor/grigio_keres'),
-('cor', 8700.00, '/img/cor/grigio_nimbus'),
-('cor', 8100.00, '/img/cor/marrone_alcestis'),
-('cor', 8000.00, '/img/cor/nero_helene'),
-('cor', 8600.00, '/img/cor/nero_noctis'),
-('cor', 8700.00, '/img/cor/rosso_anteros'),
-('cor', 8500.00, '/img/cor/rosso_mars'),
-('cor', 8500.00, '/img/cor/verde_mantis');
+('cor', 8800.00, '/img/cor/grigio_keres');
+
 
 INSERT INTO tbPintura (IdPeca, TipoCor, CodigoCor) VALUES
-(1, 'Arancio Xanto', "9F9FA2"),
-(2, 'Bianco Asopo', "568A1F"),
-(3, 'Blu Nethuns', "DF4039"),
-(4, 'Giallo Belenus', "FE9F56"),
-(5, 'Grigio Telesto', "00174C"),
-(6, 'Rosso Anteros', "3460B2"),
-(7, 'Rosso Mars', "FEB626"),
-(8, 'Verde Lares', "EBBD39"),
-(9, 'Verde Mantis', "545656"),
-(10, 'Arancio Borealis', "A0A0A3"),
-(11, 'Bianco Icarus', "261D12"),
-(12, 'Bianco Monocerus', "0C0C0B"),
-(13, 'Blu Astraeus', "000000"),
-(14, 'Blu Eleos', "E83126"),
-(15, 'Giallo Auge', "AF2025"),
-(16, 'Giallo Inti', "578A20");
+(1, 'Arancio Xanto', "A0A0A3"),
+(2, 'Bianco Asopo', "0C0C0B"),
+(3, 'Blu Nethuns', "578A20"),
+(4, 'Giallo Belenus', "EBBD39"),
+(5, 'Grigio Telesto', "c94b24"),
+(6, 'Rosso Anteros', "AF2025"),
+(7, 'Rosso Mars', "00174C"),
+(8, 'Verde Lares', "3460B2"),
+(9, 'Verde Mantis', "2f5167");
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('Aro', 15000.00, '/img/aro/altanero_bronze_diamond_cut'),
-('Aro', 15500.00, '/img/aro/altanero_titanium_matt_diamond_cut'),
-('Aro', 15200.00, '/img/aro/altanero_titanium_shiny'),
-('Aro', 15800.00, '/img/aro/altanero_shiny_black_diamond_cut'),
-('Aro', 14900.00, '/img/aro/altanero_shiny_black');
+('Aro', 15000.00, '/img/roda1.png'),
+('Aro', 15500.00, '/img/roda2.png'),
+('Aro', 15200.00, 'img/roda3.png');
 
 INSERT INTO tbAro (IdPeca, Tipo) VALUES
-(17, 'Rims Altanero Bronze Diamond cut (21"|22" forged)'),
-(18, 'Rims Altanero Titanium matt Diamond cut (21"|22" forged)'),
-(19, 'Rims Altanero Titanium shiny (21"|22" forged)'),
-(20, 'Rims Altanero Shiny Black Diamond cut (21"|22" forged)'),
-(21, 'Rims Altanero Shiny Black (21"|22" forged)');
+(10, 'Rims Altanero Bronze Diamond cut (21"|22" forged)'),
+(11, 'Rims Altanero Titanium matt Diamond cut (21"|22" forged)'),
+(12, 'Rims Altanero Titanium shiny (21"|22" forged)');
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('pneu', 5200.00, '/img/pneu/bridgestone_sport_tires_20_21_rft'),
-('pneu', 4800.00, '/img/pneu/bridgestone_sport_tires_20_21');
+('Cinto', 2200.00, '/img/cinto/marrone_elpis'),
+('Cinto', 2400.00, '/img/cinto/grigio_sirius');
 
-INSERT INTO tbPneu (IdPeca, Tipo) VALUES
-(22, 'Bridgestone Sport Tires 20"/21" RFT'),
-(23, 'Bridgestone Sport Tires 20"/21');
+INSERT INTO tbCinto (IdPeca, Tipo) VALUES
+(13, 'Marrone Elpis'),
+(14 , 'Grigio Sirius');
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
 ('freio', 9000.00, '/img/freio/matt_black_ccb_brake_calipers'),
@@ -256,29 +241,36 @@ INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
 ('freio', 9700.00, '/img/freio/verde_ccb_brake_calipers');
 
 INSERT INTO tbFreio (IdPeca, Tipo) VALUES
-(24, 'Matt black CCB brake Calipers'),
-(25, 'Bronzo CCB Brake Calipers'),
-(26, 'Verde Chiaro CCB Brake Calipers'),
-(27, 'Arancio CCB Brake Calipers'),
-(28, 'Blu CCB Brake Calipers'),
-(29, 'Bianco CCB Brake Calipers'),
-(30, 'Giallo CCB brake Calipers'),
-(31, 'Verde CCB brake Calipers');
+(15, 'Giallo CCB brake Calipers'),
+(16, 'Verde CCB brake Calipers'),
+(17, 'Matt black CCB brake Calipers'),
+(18, 'Bronzo CCB Brake Calipers'),
+(19, 'Verde Chiaro CCB Brake Calipers'),
+(20, 'Arancio CCB Brake Calipers'),
+(21, 'Blu CCB Brake Calipers'),
+(22, 'Bianco CCB Brake Calipers');
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('teto', 7000.00, '/img/teto/engine_grilles_matt_black'),
-('teto', 7200.00, '/img/teto/engine_grilles_grigio_titans'),
-('teto', 8000.00, '/img/teto/upper_matt_black_livery'),
-('teto', 8200.00, '/img/teto/upper_shiny_black_livery');
+('teto', 7000.00, '/img/teto1.png'),
+('teto', 7200.00, '/img/teto2.png');
 
 INSERT INTO tbTeto (IdPeca, Tipo) VALUES
-(32, 'Engine grilles colored in matt black'),
-(33, 'Engine grilles colored in match with Grigio Titans'),
-(34, 'Upper matt black livery (roof, A-pillars, livery on cofango)'),
-(35, 'Upper shiny black livery (roof,A-pillars,livery on cofango)');
+(23, 'Engine grilles colored in matt black'),
+(24, 'Engine grilles colored in match with Grigio Titans');
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('CorInterior', 3000.00, '/img/corinterior/nero_ade'),
+('Banco', 8500.00, "/img/banco1.jfif"),
+('Banco', 12500.00, "/img/banco2.jfif"),
+('Banco', 18900.00, "/img/banco3.jfif");
+
+INSERT INTO tbBanco (IdPeca, Tipo) VALUES
+(25, 'Comfort Seats'),
+(26, 'Sport Seats (Corsa Tex Pack)'),
+(27, 'Fully electric and heated seats');
+
+
+
+/*INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
 ('CorInterior', 3200.00, '/img/corinterior/grigio_octans'),
 ('CorInterior', 3300.00, '/img/corinterior/blu_delphinus'),
 ('CorInterior', 3400.00, '/img/corinterior/rosso_burgundy'),	
@@ -288,42 +280,16 @@ INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
 ('CorInterior', 3200.00, '/img/corinterior/bianco_leda');
 
 INSERT INTO tbCorInterior (IdPeca, Tipo) VALUES
-(36, 'Nero Ade'),
-(37, 'Grigio Octans'),
-(38, 'Blu Delphinus'),
-(39, 'Rosso Burgundy'),
-(40, 'Blu Amon'),
-(41, 'Arancio Apodis'),
-(42, 'Arancio Leonis'),
-(43, 'Bianco Leda');
+(30, 'Grigio Octans'),
+(31, 'Blu Delphinus'),
+(32, 'Rosso Burgundy'),
+(33, 'Blu Amon'),
+(34, 'Arancio Apodis'),
+(35, 'Arancio Leonis'),
+(36, 'Bianco Leda');*/
 
-INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('Banco', 8500.00, '/img/banco/comfort_seats'),
-('Banco', 12500.00, '/img/banco/sport_seats_corsa_tex_pack'),
-('Banco', 18900.00, '/img/banco/fully_electric_and_heated_seats'),
-('Banco', 11000.00, '/img/banco/sport_seats');
 
-INSERT INTO tbBanco (IdPeca, Tipo) VALUES
-(1, 'Comfort Seats'),
-(2, 'Sport Seats (Corsa Tex Pack)'),
-(3, 'Fully electric and heated seats'),
-(4, 'Sport Seats');
 
-INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
-('Cinto', 2200.00, '/img/cinto/marrone_elpis'),
-('Cinto', 2400.00, '/img/cinto/grigio_sirius'),
-('Cinto', 2500.00, '/img/cinto/rosso_efesto'),
-('Cinto', 2600.00, '/img/cinto/blu_cepheus'),
-('Cinto', 2500.00, '/img/cinto/rosso_alala'),
-('Cinto', 2700.00, '/img/cinto/giallo_taurus');
-
-INSERT INTO tbCinto (IdPeca, Tipo) VALUES
-(5, 'Marrone Elpis'),
-(6, 'Grigio Sirius'),
-(7, 'Rosso Efesto'),
-(8, 'Blu Cepheus'),
-(9, 'Rosso Alala'),
-(10, 'Giallo Taurus');
 
 insert into tbModelo(marca, nome, ano, categoriacarro, img, hp, torque, motor, Descricao) values
 ("Lamborghini", "Urus", 2025, "SUV", "/img/revuelto", "650cv", "86,7 kgfm", "V8", "A Lamborghini Urus é o primeiro Super SUV (Super Sport Utility Vehicle) do mundo, unindo a alma de um superesportivo com a funcionalidade prática de um utilitário esportivo. Impulsionado pelo motor V8 biturbo de 4,0 litros da Lamborghini."),
@@ -342,4 +308,11 @@ begin
         SET MESSAGE_TEXT = 'As senhas não coincidem.';
     end if;
 end
+$$
+
+Delimiter $$
+	create procedure selectImgAro(vIdAro int)
+	begin
+		select img from tbPeca where idPeca = vIdAro;
+	end
 $$
