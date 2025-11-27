@@ -23,7 +23,8 @@ namespace Sistema_SpeedZone.Repository
 
                 try
                 {
-                    MySqlCommand cmd = new MySqlCommand("insert into tbUsuario(nome, cpf, datanasc, telefone, email, senha, numend, cep, compend, rg) values(@Nome, @CPF, @Nascimento,  @Telefone, @Email, @Senha, @NumEnd, @CEP, @Compend, @RG)", conexao); // @: PARAMETRO
+                    MySqlCommand cmd = new MySqlCommand("insert into tbUsuario(nome, cpf, datanasc, telefone, email, senha, numend, cep, compend, rg)" +
+                        " values(@Nome, @CPF, @Nascimento,  @Telefone, @Email, @Senha, @NumEnd, @CEP, @Compend, @RG)", conexao); // @: PARAMETRO
 
                     cmd.Parameters.Add("@Nome", MySqlDbType.VarChar).Value = usuario.Nome;
                     cmd.Parameters.Add("@Nascimento", MySqlDbType.DateTime).Value = usuario.Nascimento.ToString("yyyy/MM/dd");

@@ -65,6 +65,22 @@
       "PackagePath": "staticwebassets\\img\\audi_logo.png"
     },
     {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\banco1.jfif",
+      "PackagePath": "staticwebassets\\img\\banco1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\banco2.jfif",
+      "PackagePath": "staticwebassets\\img\\banco2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\banco3.jfif",
+      "PackagePath": "staticwebassets\\img\\banco3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\bancoicon.png",
+      "PackagePath": "staticwebassets\\img\\bancoicon.png"
+    },
+    {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\bentley_logo.png",
       "PackagePath": "staticwebassets\\img\\bentley_logo.png"
     },
@@ -107,6 +123,30 @@
     {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\citroen_logo.png",
       "PackagePath": "staticwebassets\\img\\citroen_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\cor1.jfif",
+      "PackagePath": "staticwebassets\\img\\cor1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\cor2.jfif",
+      "PackagePath": "staticwebassets\\img\\cor2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\cor3.jfif",
+      "PackagePath": "staticwebassets\\img\\cor3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\cor4.jfif",
+      "PackagePath": "staticwebassets\\img\\cor4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\coricon.png",
+      "PackagePath": "staticwebassets\\img\\coricon.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\costuraicon.png",
+      "PackagePath": "staticwebassets\\img\\costuraicon.png"
     },
     {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\darkblue_bg.png",
@@ -197,6 +237,22 @@
       "PackagePath": "staticwebassets\\img\\pagani_logo.png"
     },
     {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\painel1.jfif",
+      "PackagePath": "staticwebassets\\img\\painel1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\painel2.jfif",
+      "PackagePath": "staticwebassets\\img\\painel2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\painel3.jfif",
+      "PackagePath": "staticwebassets\\img\\painel3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\painelicon.png",
+      "PackagePath": "staticwebassets\\img\\painelicon.png"
+    },
+    {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\perfil.png",
       "PackagePath": "staticwebassets\\img\\perfil.png"
     },
@@ -215,6 +271,10 @@
     {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\porshe_logo.png",
       "PackagePath": "staticwebassets\\img\\porshe_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\qrPix.jpg",
+      "PackagePath": "staticwebassets\\img\\qrPix.jpg"
     },
     {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\qrcode.png",
@@ -237,16 +297,48 @@
       "PackagePath": "staticwebassets\\img\\revueltocompra.png"
     },
     {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltofinal.jfif",
+      "PackagePath": "staticwebassets\\img\\revueltofinal.jfif"
+    },
+    {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltofinal.png",
       "PackagePath": "staticwebassets\\img\\revueltofinal.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltoinicial.jfif",
+      "PackagePath": "staticwebassets\\img\\revueltoinicial.jfif"
     },
     {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltoinicial.png",
       "PackagePath": "staticwebassets\\img\\revueltoinicial.png"
     },
     {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltovermelho.jfif",
+      "PackagePath": "staticwebassets\\img\\revueltovermelho.jfif"
+    },
+    {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\revueltovermelho.png",
       "PackagePath": "staticwebassets\\img\\revueltovermelho.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\roda1.png",
+      "PackagePath": "staticwebassets\\img\\roda1.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\roda1_bg.jfif",
+      "PackagePath": "staticwebassets\\img\\roda1_bg.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\roda2.png",
+      "PackagePath": "staticwebassets\\img\\roda2.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\roda2_bg.jfif",
+      "PackagePath": "staticwebassets\\img\\roda2_bg.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\roda3.png",
+      "PackagePath": "staticwebassets\\img\\roda3.png"
     },
     {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\rollsroyce_logo.png",
@@ -271,6 +363,22 @@
     {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\temerario.png",
       "PackagePath": "staticwebassets\\img\\temerario.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\teto1.png",
+      "PackagePath": "staticwebassets\\img\\teto1.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\teto1_bg.jfif",
+      "PackagePath": "staticwebassets\\img\\teto1_bg.jfif"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\teto2.png",
+      "PackagePath": "staticwebassets\\img\\teto2.png"
+    },
+    {
+      "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\teto2_bg.jfif",
+      "PackagePath": "staticwebassets\\img\\teto2_bg.jfif"
     },
     {
       "Id": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\wwwroot\\img\\tetoicon.png",

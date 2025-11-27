@@ -39,13 +39,6 @@ namespace Sistema_SpeedZone.Controllers
             }
         }
 
-        //public IActionResult PainelUsuario()
-        //{
-        //    ViewBag.Nome = _loginUsuario.GetUsuario().Nome;
-        //    ViewBag.CPF = _loginUsuario.GetUsuario().CPF;
-        //    return View();
-        //}
-
         public IActionResult Cadastrar()
         {
             return View();

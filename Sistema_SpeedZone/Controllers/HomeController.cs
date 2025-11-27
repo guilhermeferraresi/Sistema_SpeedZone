@@ -9,22 +9,6 @@ namespace Sistema_SpeedZone.Controllers
 {
     public class HomeController : Controller
     {
-        /*private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }*/
-
-        private IClienteRepository _clienteRepository;
-        private LoginUsuario _loginUsuario;
-
-        public HomeController(IClienteRepository clienteRepository, LoginUsuario loginUsuario)
-        {
-            _clienteRepository = clienteRepository;
-            _loginUsuario = loginUsuario;
-        }
-
         public IActionResult Index()
         {
             return View();
