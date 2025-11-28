@@ -53,6 +53,18 @@ namespace Sistema_SpeedZone.Models
         [Required(ErrorMessage = "O CEP é obrigatório")]
         public string CEP { get; set; }
 
+        [Display(Name = "Rua")]
+        [Required(ErrorMessage = "A Rua é obrigatório")]
+        public string Rua { get; set; }
+
+        [Display(Name = "Cidade")]
+        [Required(ErrorMessage = "A Cidade é obrigatório")]
+        public string Cidade { get; set; }
+
+        [Display(Name = "Estado")]
+        [Required(ErrorMessage = "O Estado é obrigatório")]
+        public string Estado { get; set; }
+
         [Display(Name = "Complemento")]
         [Required(ErrorMessage = "O complemento do endereço é obrigatório")]
         public string Complemento { get; set; }

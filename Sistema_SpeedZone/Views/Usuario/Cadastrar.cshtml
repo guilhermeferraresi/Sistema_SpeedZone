@@ -16,43 +16,65 @@
                 <div id="parteFormUm" class="visivel">
                     <p class="cadastro-legenda">INFORMAÇÕES DO CLIENTE</p>
 
-                    <label>NOME COMPLETO</label>
+                    <label asp-for="Nome">NOME COMPLETO</label>
                     <input asp-for="Nome" class="cadastro-input" type="text" required />
+                    <span asp-validation-for="Nome"></span>
 
-                    <label>CPF</label>
+                    <label asp-for="CPF">CPF</label>
                     <input asp-for="CPF" class="cadastro-input" type="text" required />
+                    <span asp-validation-for="CPF"></span>
 
-                    <label>RG</label>
+                    <label asp-for="RG">RG</label>
                     <input asp-for="RG" class="cadastro-input" type="text" required />
+                    <span asp-validation-for="RG"></span>
 
-                    <label>DATA DE NASCIMENTO</label>
+                    <label asp-for="Nascimento">DATA DE NASCIMENTO</label>
                     <input asp-for="Nascimento" class="cadastro-input" type="date" required />
+                    <span asp-validation-for="Nascimento"></span>
 
-                    <label>TELEFONE</label>
+                    <label asp-for="Telefone">TELEFONE</label>
                     <input asp-for="Telefone" class="cadastro-input" type="tel" required />
+                    <span asp-validation-for="Telefone"></span>
                 </div>
 
                 <div id="parteFormDois" class="invisivel">
                     <p class="cadastro-legenda">INFORMAÇÕES DE ENDEREÇO</p>
 
-                    <label>CEP</label>
+                    <label asp-for="CEP">CEP</label>
                     <input asp-for="CEP" class="cadastro-input" type="text" required />
+                    <span asp-validation-for="CEP"></span>
 
-                    <label>NÚMERO</label>
+                    <label asp-for="Numero">NÚMERO</label>
                     <input asp-for="Numero" class="cadastro-input" type="text" required />
+                    <span asp-validation-for="Numero"></span>
 
-                    <label>COMPLEMENTO</label>
+                    <label asp-for="Rua">Rua</label>
+                    <input asp-for="Rua" class="cadastro-input" type="text" required />
+                    <span asp-validation-for="Rua"></span>
+
+                    <label asp-for="Cidade">Cidade</label>
+                    <input asp-for="Cidade" class="cadastro-input" type="text" required />
+                    <span asp-validation-for="Cidade"></span>
+
+                    <label asp-for="Estado">Estado</label>
+                    <input asp-for="Estado" class="cadastro-input" type="text" required />
+                    <span asp-validation-for="Estado"></span>
+
+                    <label asp-for="Complemento">COMPLEMENTO</label>
                     <input asp-for="Complemento" class="cadastro-input" type="text" required />
+                    <span asp-validation-for="Complemento"></span>
                 </div>
 
                 <div id="parteFormTres" class="invisivel">
                     <p class="cadastro-legenda">INFORMAÇÕES DE REGISTRO</p>
 
-                    <label>EMAIL</label>
+                    <label asp-for="Email">EMAIL</label>
                     <input asp-for="Email" class="cadastro-input" type="email" required />
+                    <span asp-validation-for="Email"></span>
 
-                    <label>SENHA</label>
+                    <label asp-for="Senha">SENHA</label>
                     <input asp-for="Senha" class="cadastro-input" type="password" required />
+                    <span asp-validation-for="Senha"></span>
 
                     <!--<label>CONFIRMAR SENHA</label>
                     <input asp-for="ConfSenha" class="cadastro-input" type="password" name="ConfirmaSenha" />-->
@@ -77,3 +99,9 @@
 </body>
 <script src="/js/cadastro.js"></script>
 </html>
+
+@* @section Scripts {
+@{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+} *@

@@ -51,7 +51,6 @@ create table tbPagamento(
 
 create table tbCartao(
 	IdCartao int primary key auto_increment,
-    IdUsuario int,
     NumeroCartao varchar(16) not null,
     Nome varchar(30) not null,
     Validade varchar(10) not null,
