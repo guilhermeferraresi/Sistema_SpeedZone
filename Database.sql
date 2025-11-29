@@ -170,7 +170,6 @@ create table tbVidro(
 );
 
 alter table tbPedido add constraint fk_idUsuario foreign key(idUsuario) references tbUsuario(idUsuario);
-alter table tbCartao add constraint fk_idUsuarioCartao foreign key(idUsuario) references tbUsuario(idUsuario);
 alter table tbPedido add constraint fk_idFuncAprovador foreign key(IdFuncAprovador) references tbFunc(IdFunc);
 alter table tbPedido add constraint fk_idPersonalizacaoPedido foreign key(idPersonalizacao) references tbPersonalizacao(idPersonalizacao);
 alter table tbPagamento add constraint fk_idpedido foreign key(idpedido) references tbPedido(idpedido);
