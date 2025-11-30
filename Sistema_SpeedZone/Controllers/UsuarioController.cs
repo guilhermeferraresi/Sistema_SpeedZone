@@ -48,15 +48,8 @@ namespace Sistema_SpeedZone.Controllers
         {
             if (ModelState.IsValid)
             {
-                try
-                {
-                    _clienteRepository.Cadastrar(usuario);
-                    return RedirectToAction("Login");
-                }
-                catch (Exception ex)
-                {
-                    ViewData["MSG_E"] = ex.Message; // "As senhas não coincidem."
-                }
+                _clienteRepository.Cadastrar(usuario);
+                return RedirectToAction("Login");
             }
             return View(usuario);
         }

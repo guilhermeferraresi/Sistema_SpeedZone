@@ -15,11 +15,6 @@ namespace Sistema_SpeedZone.Models
         [Required(ErrorMessage = "A data é obrigatória")]
         public DateTime Nascimento { get; set; }
 
-        //[Display(Name = "Sexo")]
-        //[Required(ErrorMessage = "Selecione uma opção")]
-        //[StringLength(1, ErrorMessage = "Deve conter 1 caracter")]
-       // public string Sexo { get; set; }
-
         [Display(Name = "CPF")]
         [Required(ErrorMessage = "O CPF é obrigatório")]
         public string CPF { get; set; }
@@ -43,28 +38,9 @@ namespace Sistema_SpeedZone.Models
         [StringLength(10, MinimumLength = 6, ErrorMessage = "A senha deve ter entre 6 e 10 caracteres")]
         public string Senha { get; set; }
 
-        /*[Display(Name = "Senha")]
-        [DataType(DataType.Password)]
-        [Required(ErrorMessage = "O campo senha é obrigatório")]
-        [StringLength(10, MinimumLength = 6, ErrorMessage = "A senha deve ter entre 6 e 10 caracteres")]
-        public string ConfSenha { get; set; }*/
-
         [Display(Name = "CEP")]
         [Required(ErrorMessage = "O CEP é obrigatório")]
         public string CEP { get; set; }
-
-        //[Display(Name = "Rua")]
-        //[Required(ErrorMessage = "A Rua é obrigatório")]
-        //public string Rua { get; set; }
-
-        //[Display(Name = "Cidade")]
-        //[Required(ErrorMessage = "A Cidade é obrigatório")]
-        //public string Cidade { get; set; }
-
-        //[Display(Name = "Estado")]
-        //[Required(ErrorMessage = "O Estado é obrigatório")]
-        //public string Estado { get; set; }
-
         [Display(Name = "Complemento")]
         [Required(ErrorMessage = "O complemento do endereço é obrigatório")]
         public string Complemento { get; set; }

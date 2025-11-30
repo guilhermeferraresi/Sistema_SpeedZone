@@ -15,6 +15,7 @@ builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 builder.Services.AddScoped<IPagamentoRepository, PagamentoRepository>();
 builder.Services.AddScoped<IFuncionarioRepository, FuncionarioRepository>();
 builder.Services.AddScoped<IModeloRepository, ModeloRepository>();
+builder.Services.AddScoped<IPedidoRepository, PedidoRepository>();
 
 //builder.Services.AddScoped<IModeloRepository, ModeloRepository>();
 

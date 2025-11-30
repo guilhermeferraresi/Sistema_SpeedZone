@@ -85,10 +85,18 @@ create table tbModelo(
 
 create table tbPersonalizacao(
 	IdPersonalizacao int primary key auto_increment,
-    IdModelo int not null,
-    IdPeca int not null
+    Modelo varchar(25) not null,
+    Pintura varchar(25) not null,
+    Teto varchar(25) not null,
+    Pneus varchar(25) not null,
+    Pinca varchar(25) not null,
+    Painel varchar(25) not null,
+    CorInter varchar(25) not null,
+    Banco varchar(25) not null,
+    Costura varchar(25) not null
  );
-
+ -- select * from tbpersonalizacao;
+ 
 create table tbPeca(
 	IdPeca int primary key auto_increment,
     Tipo varchar(30) not null,
@@ -174,8 +182,6 @@ alter table tbPedido add constraint fk_idFuncAprovador foreign key(IdFuncAprovad
 alter table tbPedido add constraint fk_idPersonalizacaoPedido foreign key(idPersonalizacao) references tbPersonalizacao(idPersonalizacao);
 alter table tbPagamento add constraint fk_idpedido foreign key(idpedido) references tbPedido(idpedido);
 alter table tbPagamento add constraint fk_idFormaPagamento foreign key(idFormaPagamento) references tbFormaPagamento(idFormaPagamento);
-alter table tbPersonalizacao add constraint fk_idPeca foreign key(IdPeca) references tbPeca(IdPeca);
-alter table tbPersonalizacao add constraint fk_idModeloPersonalizacao foreign key(IdModelo) references tbModelo(IdModelo);
 alter table tbPintura add constraint fk_idPecaPintura foreign key(IdPeca) references tbPeca(IdPeca);
 alter table tbKits add constraint fk_idPecaKits foreign key(IdPeca) references tbPeca(IdPeca);
 alter table tbVidro add constraint fk_idPecaVidro foreign key(IdPeca) references tbPeca(IdPeca);
@@ -247,6 +253,9 @@ INSERT INTO tbFreio (IdPeca, Tipo) VALUES
 (20, 'Arancio CCB Brake Calipers'),
 (21, 'Blu CCB Brake Calipers'),
 (22, 'Bianco CCB Brake Calipers');
+
+insert into tbPersonalizacao(Modelo, Pintura, Teto, Pneus, Pinca, Painel, CorInter, Banco, Costura) values("REVUELTO", "Rosso Mars - #AF2025", "Teto preto", "Aro preto", "Dourado - #FFD700", "Entradas de ar", "Rosso Mars - #AF2025", "Banco esportivo", "Dourado #FFD700");
+
 
 INSERT INTO tbPeca (Tipo, Preco, Img) VALUES
 ('teto', 7000.00, '/img/teto1.png'),

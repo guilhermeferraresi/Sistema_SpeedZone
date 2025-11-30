@@ -1,4 +1,10 @@
-﻿<!DOCTYPE html>
+﻿@model IEnumerable<Sistema_SpeedZone.Models.Pedido>
+
+@{
+    ViewData["Title"] = "Resumo";
+}
+
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="utf-8" />
@@ -15,8 +21,11 @@
         <a asp-controller="Usuario" asp-action="Login"> <img class="avatar-perfil" src="/img/perfil.png" alt="Perfil do usuário" /></a>
     </header>
     <div class="resumo-bloco-preto">
+    @foreach (var item in Model)
+    {
+        
         <section class="resumo-ficha">
-            <h2 class="resumo-ficha__titulo">FICHA TÉCNICA DO SEU REVUELTO</h2>
+                <h2 class="resumo-ficha__titulo">FICHA TÉCNICA DO SEU @Html.DisplayFor(modelItem => item.Modelo)</h2>
             <div class="resumo-tabs" role="tablist" aria-label="Seções do carro">
                 <button class="resumo-tab resumo-tab--ativo" type="button" data-resumo-mode="exterior">EXTERIOR</button>
                 <button class="resumo-tab" type="button" data-resumo-mode="interior">INTERIOR</button>
@@ -27,7 +36,7 @@
                     <div class="resumo-swatch resumo-swatch--vermelho" aria-hidden="true"></div>
                     <div class="resumo-textos">
                         <p class="resumo-label">COR DA PINTURA</p>
-                        <p class="resumo-valor">Rosso Mars - #AF2025</p>
+                            <p class="resumo-valor">@Html.DisplayFor(modelItem => item.Pintura)</p>
                     </div>
                 </div>
 
@@ -35,7 +44,7 @@
                     <div class="resumo-swatch resumo-swatch--teto" aria-hidden="true"></div>
                     <div class="resumo-textos">
                         <p class="resumo-label">PERSONALIZAÇÕES DO TETO</p>
-                        <p class="resumo-valor">Teto preto</p>
+                            <p class="resumo-valor">@Html.DisplayFor(modelItem => item.Teto)</p>
                     </div>
                 </div>
 
@@ -43,7 +52,7 @@
                     <div class="resumo-swatch resumo-swatch--pneus" aria-hidden="true"></div>
                     <div class="resumo-textos">
                         <p class="resumo-label">PERSONALIZAÇÕES DOS PNEUS</p>
-                        <p class="resumo-valor">Aro preto</p>
+                            <p class="resumo-valor">@Html.DisplayFor(modelItem => item.Pneus)</p>
                     </div>
                 </div>
 
@@ -51,7 +60,7 @@
                     <div class="resumo-swatch resumo-swatch--pinca" aria-hidden="true"></div>
                     <div class="resumo-textos">
                         <p class="resumo-valor resumo-valor--pinça">PINÇAS</p>
-                        <p class="resumo-valor">Dourado - #FFD700</p>
+                            <p class="resumo-valor">@Html.DisplayFor(modelItem => item.Pincas)</p>
                     </div>
                 </div>
             </div>
@@ -61,7 +70,7 @@
                     <div class="resumo-swatch resumo-swatch--painel" aria-hidden="true"></div>
                     <div class="resumo-textos">
                         <p class="resumo-label">PERSONALIZAÇÃO DO PAINEL</p>
-                        <p class="resumo-valor">Entradas de ar</p>
+                            <p class="resumo-valor">@Html.DisplayFor(modelItem => item.Painel)</p>
                     </div>
                 </div>
 
@@ -69,7 +78,7 @@
                     <div class="resumo-swatch resumo-swatch--cor-interior" aria-hidden="true"></div>
                     <div class="resumo-textos">
                         <p class="resumo-label">COR DO INTERIOR</p>
-                        <p class="resumo-valor">Rosso Mars - #AF2025</p>
+                            <p class="resumo-valor">@Html.DisplayFor(modelItem => item.CorInter)</p>
                     </div>
                 </div>
 
@@ -77,7 +86,7 @@
                     <div class="resumo-swatch resumo-swatch--banco" aria-hidden="true"></div>
                     <div class="resumo-textos">
                         <p class="resumo-label">TIPO DE BANCO</p>
-                        <p class="resumo-valor">Banco esportivo</p>
+                            <p class="resumo-valor">@Html.DisplayFor(modelItem => item.Banco)</p>
                     </div>
                 </div>
 
@@ -85,11 +94,13 @@
                     <div class="resumo-swatch resumo-swatch--costura" aria-hidden="true"></div>
                     <div class="resumo-textos">
                         <p class="resumo-label">COSTURA</p>
-                        <p class="resumo-valor">Dourado #FFD700</p>
+                            <p class="resumo-valor">@Html.DisplayFor(modelItem => item.Costura)</p>
                     </div>
                 </div>
             </div>
         </section>
+    }
+    <div class="resumo-bloco-preto">
 
         <section class="resumo-card">
             <div class="resumo-card__faixa">
@@ -149,4 +160,89 @@
     </script>
     <script src="/js/no-status.js"></script>
 </body>
-</html>
+</html>@* 
+
+<h1>Resumo</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdPedido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Modelo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pintura)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Teto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pneus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pincas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Painel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CorInter)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Banco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Costura)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdPedido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Modelo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pintura)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Teto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pneus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pincas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Painel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CorInter)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Banco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Costura)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+ *@

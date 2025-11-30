@@ -32,11 +32,5 @@ namespace Sistema_SpeedZone.Libraries.Login
                 return null;
             }
         }
-
-        //Remove a sessao e desloga o usuario
-        public void Logout()
-        {
-            _sessao.RemoverTodos();
-        }
     }
 }
