@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|solutionrelative:sistema_speedzone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B3AD5A2-F766-4461-A36A-64268CA18E39}|Sistema_SpeedZone\\Sistema_SpeedZone.csproj|c:\\users\\55119\\onedrive\\\u00E1rea de trabalho\\sistema_speedzone\\sistema_speedzone\\repository\\modelorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -198,11 +198,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
@@ -210,12 +210,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Repository\\ClienteRepository.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAYwAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T04:16:26.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T04:16:26.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PedidoRepository.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\PedidoRepository.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Repository\\PedidoRepository.cs",
@@ -223,12 +222,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Repository\\PedidoRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAADwvzEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T17:01:29.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T17:01:29.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
@@ -236,12 +234,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAOYAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T04:03:00.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T04:03:00.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Resumo.cshtml",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
@@ -249,12 +246,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pedido\\Resumo.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAIwBsAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T17:11:16.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T17:11:16.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Compra.cshtml",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
@@ -262,12 +258,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Views\\Pedido\\Compra.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T13:59:25.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T13:59:25.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Views\\Usuario\\Login.cshtml",
@@ -280,7 +275,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Program.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Program.cs",
+              "RelativeToolTip": "Sistema_SpeedZone\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:55:10.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IPedidoRepository.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Repository\\Contract\\IPedidoRepository.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Repository\\Contract\\IPedidoRepository.cs",
@@ -288,12 +296,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Repository\\Contract\\IPedidoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T17:00:48.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T17:00:48.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Models\\Pedido.cs",
@@ -301,12 +308,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Models\\Pedido.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T16:29:34.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T16:29:34.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Models\\Usuario.cs",
@@ -314,12 +320,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T02:58:16.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T02:58:16.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Cartao.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Models\\Cartao.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Models\\Cartao.cs",
@@ -327,12 +332,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Models\\Cartao.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T11:15:20.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T11:15:20.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "LoginUsuario.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
@@ -340,12 +344,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Libraries\\Login\\LoginUsuario.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T04:21:15.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T04:21:15.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\PedidoController.cs",
@@ -353,12 +356,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\PedidoController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T14:50:43.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T14:50:43.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PersonalizacaoController.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
@@ -366,12 +368,11 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\PersonalizacaoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T13:48:57.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T13:48:57.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
@@ -379,21 +380,7 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T14:42:07.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Program.cs",
-              "RelativeDocumentMoniker": "Sistema_SpeedZone\\Program.cs",
-              "ToolTip": "C:\\Users\\55119\\OneDrive\\\u00C1rea de Trabalho\\Sistema_SpeedZone\\Sistema_SpeedZone\\Program.cs",
-              "RelativeToolTip": "Sistema_SpeedZone\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T23:55:10.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T14:42:07.299Z"
             },
             {
               "$type": "Document",
@@ -405,8 +392,7 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Repository\\ModeloRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA+wCwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T22:58:03.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T22:58:03.292Z"
             },
             {
               "$type": "Document",
@@ -430,8 +416,7 @@
               "RelativeToolTip": "Sistema_SpeedZone\\Repository\\Contract\\IModeloRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T00:50:13.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T00:50:13.086Z"
             },
             {
               "$type": "Document",
